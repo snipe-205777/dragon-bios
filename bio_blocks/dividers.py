@@ -1,4 +1,4 @@
-from data import section_dividers
+from resources.dividers import section_dividers
 
 def dividers(dragon):
     divider_type = dragon["divider_type"]

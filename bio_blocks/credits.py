@@ -1,4 +1,4 @@
-from data import section_dividers
+from resources.dividers import section_dividers
 
 def credits(dragon):
     return f"""[right][size=1]Credits:
