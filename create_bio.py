@@ -4,7 +4,7 @@ from bio_blocks.dividers import dividers
 
 dragon_data = pd.read_excel("bio_info.xlsx", sheet_name="dragons", header=0)
 
-dragon_data["divider_type"] = dragon_data["divider_type"].fillna("Swirls")
+dragon_data = dragon_data.fillna(0)
 
 for i in range(dragon_data.shape[0] - 1):
     dragon = dragon_data.loc[i]
