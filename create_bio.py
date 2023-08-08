@@ -3,6 +3,7 @@ import pandas as pd
 from bio_blocks.credits import credits
 from bio_blocks.dividers import dividers
 from bio_blocks.header import create_header
+from bio_blocks.main_content import main_content
 
 dragon_data = pd.read_excel("bio_info.xlsx", sheet_name="dragons", header=0)
 
@@ -12,9 +13,8 @@ def create_bio(dragon):
     divider = dividers(dragon)
  
     header = create_header(dragon)
+    main = main_content(dragon)
     credit = credits(dragon)
-
-    print(dragon["name"])
 
 
 if __name__ == "__main__":
