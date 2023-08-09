@@ -1,5 +1,6 @@
 import argparse
 import pandas as pd
+from bio_blocks.bonus_sections import bonus_sections
 from bio_blocks.credits import credits
 from bio_blocks.dividers import dividers
 from bio_blocks.header import create_header
@@ -16,6 +17,7 @@ def create_bio(dragon):
     header = create_header(dragon)
     main = main_content(dragon)
     relationships = relationships_block(dragon)
+    bonus_section_1, bonus_section_2 = bonus_sections(dragon).values()
     credit = credits(dragon)
 
 
