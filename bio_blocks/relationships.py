@@ -39,7 +39,6 @@ def relationships_block(dragon):
 
     if len(relations) > 1:
         placeholder = transparent_placeholder[len(relations)]
-
         return f"[columns][img alt='transparent placeholder']{placeholder}[/img][nextcol]{'[nextcol]'.join(relations)}[/columns]"
     elif len(relations) == 1:
         return f"{relations[0]}[/center]"
