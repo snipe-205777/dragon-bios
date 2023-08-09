@@ -1,6 +1,7 @@
 import argparse
 import pandas as pd
 from bio_blocks.bonus_sections import bonus_sections
+from bio_blocks.clan_lore import clan_lore_block
 from bio_blocks.credits import credits
 from bio_blocks.dividers import dividers
 from bio_blocks.header import create_header
@@ -18,6 +19,7 @@ def create_bio(dragon):
     main = main_content(dragon)
     relationships = relationships_block(dragon)
     bonus_section_1, bonus_section_2 = bonus_sections(dragon).values()
+    clan_lore = clan_lore_block(dragon)
     credit = credits(dragon)
 
 
@@ -29,7 +31,7 @@ if __name__ == "__main__":
     if args.dragon:
         match_name = dragon_data[dragon_data["name"] == args.dragon]
         if match_name.empty:
-            raise ValueError("No dragon found with this name. This argument are case-sensitive")
+            raise ValueError("No dragon found with this name. This argument is case-sensitive")
         else:
             row = match_name.index[0]
             dragon = dragon_data.loc[row]
