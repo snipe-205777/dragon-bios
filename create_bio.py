@@ -1,5 +1,6 @@
 import argparse
 import pandas as pd
+from bio_blocks.art import art_block
 from bio_blocks.bloodsport_victories import bloodsport_victories
 from bio_blocks.bonus_sections import bonus_sections
 from bio_blocks.clan_lore import clan_lore_block
@@ -21,6 +22,7 @@ def create_bio(dragon):
     relationships = relationships_block(dragon)
     bonus_section_1, bonus_section_2 = bonus_sections(dragon).values()
     clan_lore = clan_lore_block(dragon)
+    art = art_block(dragon)
     bloodsport = bloodsport_victories(dragon)
     credit = credits(dragon)
 
