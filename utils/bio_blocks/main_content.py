@@ -1,5 +1,5 @@
 from os.path import exists
-from resources.flight_icons import flight_icons
+from utils.resources.flight_icons import flight_icons
 
 def create_side_icons(dragon):
     icon_type = dragon["icon_type"] if dragon["icon_type"] else "Runes"
@@ -16,7 +16,7 @@ def create_side_icons(dragon):
     return "\n\n".join(icons)
 
 def get_bio_text(dragon):
-    filename = f"main_content/{dragon['name'].lower()}.txt"
+    filename = f"bio_sections/main_content/{dragon['name'].lower()}.txt"
     if exists(filename):
         with open(filename, "r", encoding="utf8") as bio_text:
             return bio_text.read()

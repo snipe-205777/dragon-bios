@@ -1,15 +1,15 @@
 import argparse
 from os import path, mkdir
 import pandas as pd
-from bio_blocks.art import art_block
-from bio_blocks.bloodsport_victories import bloodsport_victories
-from bio_blocks.bonus_sections import bonus_sections
-from bio_blocks.clan_lore import clan_lore_block
-from bio_blocks.credits import credits
-from bio_blocks.dividers import dividers
-from bio_blocks.header import create_header
-from bio_blocks.main_content import main_content
-from bio_blocks.relationships import relationships_block
+from utils.bio_blocks.art import art_block
+from utils.bio_blocks.bloodsport_victories import bloodsport_victories
+from utils.bio_blocks.bonus_sections import bonus_sections
+from utils.bio_blocks.clan_lore import clan_lore_block
+from utils.bio_blocks.credits import credits
+from utils.bio_blocks.dividers import dividers
+from utils.bio_blocks.header import create_header
+from utils.bio_blocks.main_content import main_content
+from utils.bio_blocks.relationships import relationships_block
 
 dragon_data = pd.read_excel("bio_info.xlsx", sheet_name="dragons", header=0)
 

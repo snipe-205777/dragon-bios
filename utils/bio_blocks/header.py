@@ -1,5 +1,5 @@
-from bio_blocks.coloured_text import coloured_text
-from resources.flags import flag_banners
+from utils.bio_blocks.coloured_text import coloured_text
+from utils.resources.flags import flag_banners
 
 def create_flags(dragon):
     flags = []

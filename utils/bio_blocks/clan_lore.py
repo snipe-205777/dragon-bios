@@ -1,10 +1,10 @@
 from os.path import exists
-from bio_blocks.coloured_text import coloured_text
+from utils.bio_blocks.coloured_text import coloured_text
 
 def clan_lore_block(dragon):
     text_colour = coloured_text(dragon)
     lore_title = dragon["clan_lore_title"]
-    lore_file = f"clan_lore/{lore_title.lower().replace(' ', '_')}.txt"
+    lore_file = f"bio_sections/clan_lore/{lore_title.lower().replace(' ', '_')}.txt"
     see_also = dragon["clan_lore_see_also"]
 
     if lore_title and exists(lore_file):

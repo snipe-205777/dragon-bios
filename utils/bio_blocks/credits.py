@@ -1,7 +1,7 @@
-from bio_blocks.art import art_block
-from bio_blocks.header import create_flags
-from resources.dividers import section_dividers
-from resources.flight_icons import flight_icons
+from utils.bio_blocks.art import art_block
+from utils.bio_blocks.header import create_flags
+from utils.resources.dividers import section_dividers
+from utils.resources.flight_icons import flight_icons
 
 def credits(dragon):
     lore = f"\nLore: {dragon['bio_credit']}" if dragon["bio_credit"] else ""

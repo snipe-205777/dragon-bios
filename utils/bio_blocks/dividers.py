@@ -1,4 +1,4 @@
-from resources.dividers import section_dividers
+from utils.resources.dividers import section_dividers
 
 def dividers(dragon):
     if dragon["divider_type"]:

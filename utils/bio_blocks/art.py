@@ -1,5 +1,5 @@
 import pandas as pd
-from bio_blocks.coloured_text import coloured_text
+from utils.bio_blocks.coloured_text import coloured_text
 
 def art_block(dragon):
     art = pd.read_excel("art.xlsx", sheet_name="art", header=0)

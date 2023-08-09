@@ -1,4 +1,4 @@
-from resources.text_colour import text_colour
+from utils.resources.text_colour import text_colour
 
 def coloured_text(dragon):
     if dragon["divider_type"]:
