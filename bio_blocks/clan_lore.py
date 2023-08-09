@@ -5,7 +5,7 @@ def clan_lore_block(dragon):
     text_colour = coloured_text(dragon)
     lore_title = dragon["clan_lore_title"]
     lore_file = f"clan_lore/{lore_title.lower().replace(' ', '_')}.txt"
-    see_also = dragon["clan_lore_see_also"] if dragon["clan_lore_see_also"] else ""
+    see_also = dragon["clan_lore_see_also"]
 
     if lore_title and exists(lore_file):
         with open(lore_file, "r", encoding="utf8") as body:

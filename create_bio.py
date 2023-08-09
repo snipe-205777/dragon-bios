@@ -10,7 +10,7 @@ from bio_blocks.relationships import relationships_block
 
 dragon_data = pd.read_excel("bio_info.xlsx", sheet_name="dragons", header=0)
 
-dragon_data = dragon_data.fillna(0)
+dragon_data = dragon_data.fillna("")
 
 def create_bio(dragon):
     divider = dividers(dragon)
