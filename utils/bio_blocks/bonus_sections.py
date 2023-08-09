@@ -6,7 +6,7 @@ def bonus_sections(dragon):
     text_colour = coloured_text(dragon)
 
     for i in range(1,3):
-        filename = f"bio_sections/bonus_section_{i}/{dragon['name'].lower()}.txt"
+        filename = f"bio_sections/bonus_section_{i}/{dragon['name'].lower().replace(' ', '_')}.txt"
     
         if exists(filename):
             with open(filename, "r", encoding="utf8") as section:
