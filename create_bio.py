@@ -1,4 +1,5 @@
 import argparse
+from os import path, mkdir
 import pandas as pd
 from bio_blocks.art import art_block
 from bio_blocks.bloodsport_victories import bloodsport_victories
@@ -25,6 +26,20 @@ def create_bio(dragon):
     art = art_block(dragon)
     bloodsport = bloodsport_victories(dragon)
     credit = credits(dragon)
+
+    bio_blocks = [header, main, relationships, bonus_section_1, clan_lore, bonus_section_2, art, bloodsport, credit]
+
+    bio_blocks = [x for x in bio_blocks if x]
+
+    bio = f"\n{divider}\n".join(bio_blocks)
+
+    if not path.exists("complete_bios"):
+        mkdir("complete_bios")
+
+    bio_file = f"complete_bios/{dragon['name'].lower().replace(' ', '_')}.txt"
+
+    with open(bio_file, "w", encoding="utf-8") as file:
+        file.write(bio)
 
 
 if __name__ == "__main__":
