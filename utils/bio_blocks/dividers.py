@@ -7,4 +7,4 @@ def dividers(dragon):
         divider_type = "Swirls"
 
     divider = section_dividers[divider_type][dragon["flight"]]
-    return f"[img alt='divider']{divider}[/img]"
+    return f"[center][img alt='divider']{divider}[/img][/center]"

@@ -21,6 +21,7 @@ def art_block(dragon):
 
         return f"""[center][color={text_colour}][size=5]Art[/size][/color]
 [size=1]All pieces link to artist[/size]
+
 {art_pieces}[/center]"""
     
     return ""
