@@ -16,7 +16,11 @@ def create_side_icons(dragon):
     return "\n\n".join(icons)
 
 def get_bio_text(dragon):
-    filename = f"bio_sections/main_content/{dragon['name'].lower().replace(' ', '_')}.txt"
+    filename = f"bio_sections/main_content/{dragon['subgroup']}/{dragon['name'].lower().replace(' ', '_')}.txt"
+
+    if not exists(filename):
+        filename = f"bio_sections/main_content/{dragon['name'].lower().replace(' ', '_')}.txt"
+
     if exists(filename):
         with open(filename, "r", encoding="utf8") as bio_text:
             return bio_text.read()

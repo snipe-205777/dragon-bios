@@ -14,6 +14,7 @@ from utils.bio_blocks.relationships import relationships_block
 dragon_data = pd.read_excel("bio_info.xlsx", sheet_name="dragons", header=0)
 
 dragon_data = dragon_data.fillna("")
+dragon_data["subgroup"] = dragon_data.apply(lambda row: row["subgroup"].lower().replace(" ", "_"), axis = 1)
 
 def create_bio(dragon):
     divider = dividers(dragon)
@@ -33,10 +34,10 @@ def create_bio(dragon):
 
     bio = f"\n{divider}\n".join(bio_blocks)
 
-    if not path.exists("complete_bios"):
-        mkdir("complete_bios")
+    if not path.exists(f"complete_bios/{dragon['subgroup']}"):
+        mkdir(f"complete_bios{dragon['subgroup']}")
 
-    bio_file = f"complete_bios/{dragon['name'].lower().replace(' ', '_')}.txt"
+    bio_file = f"complete_bios/{dragon['subgroup']}/{dragon['name'].lower().replace(' ', '_')}.txt"
 
     with open(bio_file, "w", encoding="utf-8") as file:
         file.write(bio)
