@@ -35,7 +35,7 @@ def create_bio(dragon):
     bio = f"\n{divider}\n".join(bio_blocks)
 
     if not path.exists(f"complete_bios/{dragon['subgroup']}"):
-        mkdir(f"complete_bios{dragon['subgroup']}")
+        mkdir(f"complete_bios/{dragon['subgroup']}")
 
     bio_file = f"complete_bios/{dragon['subgroup']}/{dragon['name'].lower().replace(' ', '_')}.txt"
 
