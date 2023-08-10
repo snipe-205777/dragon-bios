@@ -1,4 +1,3 @@
-
 [center]
 430x50px (profile width)
 

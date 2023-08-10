@@ -18,6 +18,8 @@ def bonus_sections(dragon):
 
             if section_title:
                 section_heading = f"""[center][color={text_colour}][size=4]{section_title}[/size][/color][/center]\n\n"""
+                if section_body[:8] == "[center]":
+                    section_heading += "\n"
             else:
                 section_heading = ""
 
