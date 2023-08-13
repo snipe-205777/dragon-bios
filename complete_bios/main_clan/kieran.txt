@@ -38,7 +38,7 @@
 [gamedb achievement=184]
 [gamedb achievement=185]
 [gamedb achievement=186]
-[gamedb achievement=190]
+[gamedb achievement=190] (20th Sep)
 [gamedb achievement=191]
 [gamedb achievement=192]
 [gamedb achievement=193]
@@ -59,13 +59,13 @@
 
 [emoji=treasure chest size=1] Collecting
 
-[gamedb achievement=296]
-[gamedb achievement=297]
-[gamedb achievement=298]
-[gamedb achievement=299]
-[gamedb achievement=300]
-[gamedb achievement=301]
-[gamedb achievement=302]
+[gamedb achievement=296] (17th Dec)
+[gamedb achievement=297] (17th Dec)
+[gamedb achievement=298] (17th Dec)
+[gamedb achievement=299] (17th Dec)
+[gamedb achievement=300] (17th Dec)
+[gamedb achievement=301] (17th Dec)
+[gamedb achievement=302] (3rd Jan)
 
 [emoji=dice 2 size=1] Games
 
@@ -80,7 +80,7 @@
 [gamedb achievement=488] (14th Dec)
 [gamedb achievement=515]
 [gamedb achievement=516]
-[gamedb achievement=523]
+[gamedb achievement=523] (~24th Sep)
 [gamedb achievement=496]
 [gamedb achievement=492]
 [gamedb achievement=474]
@@ -91,10 +91,10 @@
 [gamedb achievement=582] (24th Sep)
 [gamedb achievement=583] (22nd Oct)
 [gamedb achievement=584] (26th Nov)
-[gamedb achievement=585]
-[gamedb achievement=586]
-[gamedb achievement=587]
-[gamedb achievement=588]
+[gamedb achievement=585] (28th Jan)
+[gamedb achievement=586] (25th Feb)
+[gamedb achievement=587] (24th Mar)
+[gamedb achievement=588] (21st Apr)
 [gamedb achievement=591] (19th Sep)
 [gamedb achievement=592] (17th Dec)
 [gamedb achievement=637] (22nd Sep)
