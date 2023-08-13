@@ -10,7 +10,10 @@ def create_side_icons(dragon):
 
     for i in range(1,4):
         item = dragon[f"item_{i}"]
-        if item:
+        if ".png" in item or ".jpg" in item or ".jpeg" in item:
+            alt_text, img_code = item.split(", ")
+            icons.append(f"[img alt='{alt_text}']{img_code}[/img]")
+        elif item:
             icons.append(f"[item={item}]")
 
     return "\n\n".join(icons)
