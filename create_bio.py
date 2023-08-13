@@ -1,6 +1,7 @@
 import argparse
 from os import path, mkdir
 import warnings
+from termcolor import cprint
 import pandas as pd
 from utils.bio_blocks.art import art_block
 from utils.bio_blocks.bloodsport_victories import bloodsport_victories
@@ -42,8 +43,22 @@ def create_bio(dragon):
 
     bio_file = f"complete_bios/{dragon['subgroup']}/{dragon['name'].lower().replace(' ', '_')}.txt"
 
+    if not path.exists(bio_file):
+        with open(bio_file, "x", encoding="utf-8") as file:
+            message = "bio created"
+            color = "green"
+    else:
+        with open(bio_file, "r", encoding="utf-8") as file:
+            if file.read() == bio:
+                message = "no changes"
+                color = "light_grey"
+            else:
+                message = "bio updated"
+                color = "yellow"
+
     with open(bio_file, "w", encoding="utf-8") as file:
         file.write(bio)
+        cprint(f"{' ' * (16-len(dragon['name']))}{dragon['name']}: {message}", color)
 
 
 if __name__ == "__main__":
