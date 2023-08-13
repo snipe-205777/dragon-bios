@@ -1,5 +1,6 @@
 import argparse
 from os import path, mkdir
+import warnings
 import pandas as pd
 from utils.bio_blocks.art import art_block
 from utils.bio_blocks.bloodsport_victories import bloodsport_victories
@@ -11,7 +12,9 @@ from utils.bio_blocks.header import create_header
 from utils.bio_blocks.main_content import main_content
 from utils.bio_blocks.relationships import relationships_block
 
-dragon_data = pd.read_excel("bio_info.xlsx", sheet_name="dragons", header=0)
+with warnings.catch_warnings():
+    warnings.filterwarnings("ignore", category=UserWarning)
+    dragon_data = pd.read_excel("bio_info.xlsx", sheet_name="dragons", header=0)
 
 dragon_data = dragon_data.fillna("")
 dragon_data["subgroup"] = dragon_data.apply(lambda row: row["subgroup"].lower().replace(" ", "_"), axis = 1)
