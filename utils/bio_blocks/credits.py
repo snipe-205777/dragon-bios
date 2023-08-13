@@ -10,8 +10,9 @@ def credits(dragon):
     divider_type = dragon["divider_type"] if dragon["divider_type"] else "Swirls"
     pride_icons = "\nPride icons: Snipe 205777" if create_flags(dragon) else ""
     bloodsport_crown = "\nHunger Games crown: Aevios 191020" if dragon["bloodsport_victories"] else ""
+    extra_credits = f"\n{dragon['extra_credits']}".replace("[br]", "\n") if dragon["extra_credits"] else ""
 
     return f"""[right][size=1]Credits:
 Bio template: Snipe 205777{lore}{art}
 Flight icon: {flight_icons[icon_type]["Credit"]}
-Flight dividers: {section_dividers[divider_type]["Credit"]}{pride_icons}{bloodsport_crown}[/size][/right]"""
+Flight dividers: {section_dividers[divider_type]["Credit"]}{pride_icons}{bloodsport_crown}{extra_credits}[/size][/right]"""
