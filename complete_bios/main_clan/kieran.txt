@@ -22,7 +22,6 @@
 
 [emoji=eternal youth size=1] Breeding
 
-[gamedb achievement=169]
 [gamedb achievement=170]
 [gamedb achievement=171]
 [gamedb achievement=172]
@@ -30,7 +29,6 @@
 [gamedb achievement=174]
 [gamedb achievement=175]
 [gamedb achievement=176]
-[gamedb achievement=179]
 [gamedb achievement=180]
 [gamedb achievement=181]
 [gamedb achievement=182]
@@ -69,14 +67,11 @@
 
 [emoji=dice 2 size=1] Games
 
-[gamedb achievement=433] (16th Aug)
 [gamedb achievement=434] (~March)
 
 [emoji=gear size=1] Activities
 
-[gamedb achievement=479] (5th Sep)
 [gamedb achievement=480] (14th Dec)
-[gamedb achievement=487] (5th Sep)
 [gamedb achievement=488] (14th Dec)
 [gamedb achievement=515]
 [gamedb achievement=516]
@@ -87,7 +82,6 @@
 
 [emoji=mystery bag size=1] Misc
 
-[gamedb achievement=581] (27th Aug)
 [gamedb achievement=582] (24th Sep)
 [gamedb achievement=583] (22nd Oct)
 [gamedb achievement=584] (26th Nov)
