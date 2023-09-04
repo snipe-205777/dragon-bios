@@ -40,7 +40,6 @@ Marva - Hex Noggle, Striped Noggle
 Vistas
 [indent]
 Coli - Forbidden Portal
-Treasure MP - Blighted Pines
 Gem MP - Armory, Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Chandelier, Gem Hoarder, Lantern Forest, Night Sky, Corgi Sploot
 Breed - Guardian, Pearlcatcher, Spiral, Bogsneak, Coatl, Gaoler, Veilspun, Obelisk, Aberration, Undertide, Aether
 Ribbons - Progress, Rainbow, Gay, Lesbian, Bisexual, Pansexual, Asexual, Transgender, Nonbinary, Genderfluid, Demigirl, Demiboy, Agender, Demisexual
@@ -49,7 +48,7 @@ Minifest - Frigidfin, Springswarm, Meatheat, Drakeharvest
 
 Den Items
 [indent]
-Hydra, Blend, Mosaic, Banescale Scroll
+Hydra, Blend, Mosaic, Banescale Scroll, Blaze, Aether
 [/indent]
 
 Eggs
