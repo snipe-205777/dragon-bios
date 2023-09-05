@@ -11,12 +11,13 @@ Other - Scatterscroll x1
 Familiars
 [indent]
 Coli boss - Spiney Whale, Stone Borer
+Coli non-boss - Assassin Bug, Blue Hamble, Catercroak, Climbing Catercroak, Colony Killer, Fire Grub Swarm, Flighted Molecricket, Glow Worm Swarm, Hornworm Viperpillar, Illumination Crecko, Jelly Jewel, Maple Bagwitch, Midnight Lantern, Mith Loremaster, Mith Spellstealer, Moth Keeper, Nightsong Bard, Regal Silkmith, Roving Jelly Jewel, Scarlet Hamble, Shy Bagwitch, Silkmith, Striped Crecko, Sunset Buttersnake, Velvet Buttersnake, Watchful Viperpillar
 Marva - Hex Noggle, Striped Noggle
 [/indent]
 
 Vistas
 [indent]
-Coli - Forbidden Portal
+Coli - Forbidden Portal, Silk-Strewn Wreckage
 Gem MP - Armory, Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Chandelier, Gem Hoarder, Lantern Forest, Night Sky, Corgi Sploot
 Breed - Guardian, Pearlcatcher, Spiral, Bogsneak, Coatl, Gaoler, Veilspun, Obelisk, Aberration, Undertide, Aether
 Ribbons - Progress, Rainbow, Gay, Lesbian, Bisexual, Pansexual, Asexual, Transgender, Nonbinary, Genderfluid, Demigirl, Demiboy, Agender, Demisexual
