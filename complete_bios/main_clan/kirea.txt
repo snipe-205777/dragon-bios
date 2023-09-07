@@ -33,9 +33,10 @@ Other - Scatterscroll x1
 
 Familiars
 [indent]
-Coli boss - Spiney Whale, Stone Borer
-Coli non-boss - Assassin Bug, Blue Hamble, Catercroak, Climbing Catercroak, Colony Killer, Fire Grub Swarm, Flighted Molecricket, Glow Worm Swarm, Hornworm Viperpillar, Illumination Crecko, Jelly Jewel, Maple Bagwitch, Midnight Lantern, Mith Loremaster, Mith Spellstealer, Moth Keeper, Nightsong Bard, Regal Silkmith, Roving Jelly Jewel, Scarlet Hamble, Shy Bagwitch, Silkmith, Striped Crecko, Sunset Buttersnake, Velvet Buttersnake, Watchful Viperpillar
+Coli boss - Spiney Whale, Stone Borer, Midnight Lantern, Moth Keeper
+Coli non-boss - Catercroak, Climbing Catercroak, Fire Grub Swarm, Flighted Molecricket, Hornworm Viperpillar, Illumination Crecko, Mith Loremaster, Mith Spellstealer, Nightsong Bard, Regal Silkmith, Roving Jelly Jewel, Scarlet Hamble, Shy Bagwitch, Silkmith, Sunset Buttersnake, Velvet Buttersnake
 Marva - Hex Noggle, Striped Noggle
+Fiona - Archer Bug, Moonrock Collector
 [/indent]
 
 Vistas
