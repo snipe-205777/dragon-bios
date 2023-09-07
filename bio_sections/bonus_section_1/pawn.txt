@@ -1,5 +1,5 @@
-Level to 25: Pawn, banes, Derecho
-Names: blue WC, H&S, banes, veils, blue, Scatter, pearl, tree, tun, frog, ny, stone, seasons
+Level to 25: Pawn, banes, UT female, brown noc
+Names: blue WC, H&S, banes, obelisk, Scatter, pearl, tree, tun, frog, ny, stone, seasons, UT female, brown noc
 Rename?: Kieran, Lsoko, Derecho, Pawn, Orchestia
 Lore: Kieran, Lsoko, Vegvisir, Fen, Symphony, Serenade, Concerto, blue WC, Jay, H&S, banes, veils, Pawn, blue, Derecho, Scatter, Orchestia, seasons, Cabbage, Boreas, Dagian, pearl, tree, tun, frog, ny, Aerglo, stone
 Keep the yellow noc?
@@ -7,3 +7,5 @@ Also decide on denned g1s
 And rovers
 New lyrics pairs
 Alt text for collections, slivers and Invictus
+Code missing alt text bio checker
+Sort out colour contrast for bio header text
