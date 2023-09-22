@@ -10,8 +10,7 @@ Other - Scatterscroll x1
 
 Familiars
 [indent]
-Coli boss - Spiney Whale, Stone Borer, Midnight Lantern, Moth Keeper
-Coli non-boss - Catercroak, Climbing Catercroak, Fire Grub Swarm, Flighted Molecricket, Hornworm Viperpillar, Illumination Crecko, Mith Loremaster, Mith Spellstealer, Nightsong Bard, Regal Silkmith, Roving Jelly Jewel, Scarlet Hamble, Shy Bagwitch, Silkmith, Sunset Buttersnake, Velvet Buttersnake
+Coli boss - Spiney Whale, Stone Borer
 Marva - Hex Noggle, Striped Noggle
 Fiona - Archer Bug, Moonrock Collector
 [/indent]
@@ -27,7 +26,7 @@ Minifest - Frigidfin, Springswarm, Meatheat, Drakeharvest
 
 Den Items
 [indent]
-Hydra, Blend, Mosaic, Banescale Scroll, Blaze, Aether
+Hydra, Blend, Mosaic, Banescale Scroll, Blaze, Aether, Catercroak, Fire Grub Swarm
 [/indent]
 
 Eggs
