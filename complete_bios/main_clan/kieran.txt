@@ -16,10 +16,6 @@
 [center][img alt='divider']https://66.media.tumblr.com/515b3114f1bad4a607fb7ea5af2b4531/tumblr_inline_o25fvvo1fd1r3lvtf_1280.png[/img][/center]
 [center][color=#21e3e1][size=4]Unearned Achievements[/size][/color][/center]
 
-[emoji=wing size=1] Clan & Lair
-
-[gamedb achievement=640]
-
 [emoji=eternal youth size=1] Breeding
 
 [gamedb achievement=170]
@@ -36,12 +32,10 @@
 [gamedb achievement=184]
 [gamedb achievement=185]
 [gamedb achievement=186]
-[gamedb achievement=190] (20th Sep)
 [gamedb achievement=191]
 [gamedb achievement=192]
 [gamedb achievement=193]
 [gamedb achievement=194]
-[gamedb achievement=150]
 [gamedb achievement=208]
 [gamedb achievement=209]
 [gamedb achievement=210]
@@ -73,12 +67,10 @@
 
 [gamedb achievement=480] (14th Dec)
 [gamedb achievement=488] (14th Dec)
-[gamedb achievement=515]
 [gamedb achievement=516]
-[gamedb achievement=523] (~24th Sep)
+[gamedb achievement=523] (late Sep)
 [gamedb achievement=496]
 [gamedb achievement=492]
-[gamedb achievement=474]
 
 [emoji=mystery bag size=1] Misc
 
@@ -89,9 +81,7 @@
 [gamedb achievement=586] (25th Feb)
 [gamedb achievement=587] (24th Mar)
 [gamedb achievement=588] (21st Apr)
-[gamedb achievement=591] (19th Sep)
 [gamedb achievement=592] (17th Dec)
-[gamedb achievement=637] (22nd Sep)
 [gamedb achievement=634] (22nd Dec)
 [gamedb achievement=614] (24th Sep)
 [center][img alt='divider']https://66.media.tumblr.com/515b3114f1bad4a607fb7ea5af2b4531/tumblr_inline_o25fvvo1fd1r3lvtf_1280.png[/img][/center]
