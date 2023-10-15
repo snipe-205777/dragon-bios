@@ -43,20 +43,18 @@
 
 [emoji=dice 2 size=1] Games
 
-[gamedb achievement=434] (~March)
+[gamedb achievement=434] (~April)
 
 [emoji=gear size=1] Activities
 
-[gamedb achievement=480] (14th Dec)
-[gamedb achievement=488] (14th Dec)
+[gamedb achievement=480] (16th Dec)
+[gamedb achievement=488] (16th Dec)
 [gamedb achievement=516]
-[gamedb achievement=523] (late Sep)
 [gamedb achievement=496]
 [gamedb achievement=492]
 
 [emoji=mystery bag size=1] Misc
 
-[gamedb achievement=582] (24th Sep)
 [gamedb achievement=583] (22nd Oct)
 [gamedb achievement=584] (26th Nov)
 [gamedb achievement=585] (28th Jan)
@@ -65,4 +63,3 @@
 [gamedb achievement=588] (21st Apr)
 [gamedb achievement=592] (17th Dec)
 [gamedb achievement=634] (22nd Dec)
-[gamedb achievement=614] (24th Sep)
