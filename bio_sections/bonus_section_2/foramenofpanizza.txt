@@ -1,0 +1,16 @@
+[columns][right]strongattack
+critstrongattack
+weakspell
+critweakspell
+strongspell
+critstrongspell
+heal
+
+wasteturn[nextcol]ForamenOfPanizza glares with all the strength of the 3 metre baby she is
+ForamenOfPanizza glares with a level of fury only reachable by a toddler
+ForamenOfPanizza blasts a freeze ray
+ForamenOfPanizza blasts a supercooled freeze ray
+ForamenOfPanizza blows hard
+ForamenOfPanizza blows very hard
+ForamenOfPanizza switches digestive system blood supply to deoxygenated blood, saving oxygenated blood to heal her wounds and healing 0 damage!
+ForamenOfPanizza takes a nap[/columns]
