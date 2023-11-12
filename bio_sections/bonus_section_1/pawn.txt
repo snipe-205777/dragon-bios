@@ -9,3 +9,4 @@ New lyrics pairs
 Alt text for collections, slivers and Invictus
 Code missing alt text bio checker
 Sort out colour contrast for bio header text
+Replace Bat Bonanza images with non-Discord versions

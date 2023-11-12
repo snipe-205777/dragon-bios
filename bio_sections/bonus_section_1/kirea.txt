@@ -2,10 +2,9 @@
 
 Genes
 [indent]
-Pri - Pharaoh x1
-Sec - Bee x1
-Tert - Glimmer x1, Spines x1
-Other - Scatterscroll x1
+Pri - Pharaoh x1, Poison (Banescale) x1
+Sec - Bee x1, Foam (Banescale) x1, Freckle x1
+Tert - Glimmer x1
 [/indent]
 
 Familiars
@@ -36,4 +35,4 @@ Random apparel - newer apparel would be good, I've barely got any non-fest items
 Harvest apparel
 [gamedb item=36180] and other colours
 
-Art - [url=https://www1.flightrising.com/dragon/79556756]Foramen[/url], [url=https://www1.flightrising.com/dragon/22617663]Coronium[/url], [url=https://www1.flightrising.com/dragon/22617563]Loreley[/url], [url=https://www1.flightrising.com/dragon/258821]Kieran[/url], [url=https://www1.flightrising.com/dragon/32651287]Kevin (OG)[/url], [url=https://www1.flightrising.com/dragon/36634187]Nasnan[/url], [url=https://www1.flightrising.com/dragon/19465093]Poddlewise[/url], [url=https://www1.flightrising.com/dragon/29256577]Borvo[/url], [url=https://www1.flightrising.com/dragon/17411624]Nefas[/url], [url=https://www1.flightrising.com/dragon/24362252]Cabbage[/url], [url=https://www1.flightrising.com/dragon/47145093]Dagian[/url], [url=https://www1.flightrising.com/dragon/53038543]Jay[/url], [url=https://www1.flightrising.com/dragon/54852230]H&S[/url], [url=https://www1.flightrising.com/dragon/24209424]Fen[/url], [url=https://www1.flightrising.com/dragon/59589851]Eryn[/url], [url=https://www1.flightrising.com/dragon/82224599]Ash[/url], [url=https://www1.flightrising.com/dragon/76018015]Aberration permababy[/url]
+Art - [url=https://www1.flightrising.com/dragon/79556756]Foramen[/url], [url=https://www1.flightrising.com/dragon/22617663]Coronium[/url], [url=https://www1.flightrising.com/dragon/22617563]Loreley[/url], [url=https://www1.flightrising.com/dragon/258821]Kieran[/url], [url=https://www1.flightrising.com/dragon/32651287]Kevin (OG)[/url], [url=https://www1.flightrising.com/dragon/36634187]Nasnan[/url], [url=https://www1.flightrising.com/dragon/19465093]Poddlewise[/url], [url=https://www1.flightrising.com/dragon/29256577]Borvo[/url], [url=https://www1.flightrising.com/dragon/17411624]Nefas[/url], [url=https://www1.flightrising.com/dragon/24362252]Cabbage[/url], [url=https://www1.flightrising.com/dragon/47145093]Dagian[/url], [url=https://www1.flightrising.com/dragon/53038543]Jay[/url], [url=https://www1.flightrising.com/dragon/54852230]H&S[/url], [url=https://www1.flightrising.com/dragon/24209424]Fen[/url], [url=https://www1.flightrising.com/dragon/59589851]Eryn[/url], [url=https://www1.flightrising.com/dragon/82224599]Ash[/url], [url=https://www1.flightrising.com/dragon/76018015]Ireo[/url]
