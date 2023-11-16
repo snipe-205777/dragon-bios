@@ -2,7 +2,7 @@ import pandas as pd
 from utils.bio_blocks.coloured_text import coloured_text
 
 def art_block(dragon):
-    art = pd.read_csv("art.csv", header=0)
+    art = pd.read_csv("art.csv", header=0, skipinitialspace=True)
     art = art.fillna("")
 
     art = art[art["dragon"] == dragon["name"]]
