@@ -25,8 +25,8 @@ Usually.
 
 Genes
 [indent]
-Pri - Pharaoh x1, Poison (Banescale) x1
-Sec - Bee x1, Foam (Banescale) x1, Freckle x1
+Pri - Pharaoh x1
+Sec - Bee x1, Flair x1, Freckle x1
 Tert - Glimmer x1
 [/indent]
 
