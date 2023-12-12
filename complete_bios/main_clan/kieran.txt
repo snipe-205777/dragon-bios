@@ -18,7 +18,6 @@
 
 [emoji=eternal youth size=1] Breeding
 
-[gamedb achievement=170]
 [gamedb achievement=171]
 [gamedb achievement=172]
 [gamedb achievement=173]
@@ -44,7 +43,6 @@
 [gamedb achievement=213]
 [gamedb achievement=214]
 [gamedb achievement=215]
-[gamedb achievement=216]
 [gamedb achievement=217]
 [gamedb achievement=218]
 [gamedb achievement=220]
@@ -70,7 +68,6 @@
 
 [emoji=mystery bag size=1] Misc
 
-[gamedb achievement=584] (26th Nov)
 [gamedb achievement=585] (28th Jan)
 [gamedb achievement=586] (25th Feb)
 [gamedb achievement=587] (24th Mar)
