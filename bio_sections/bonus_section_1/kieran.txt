@@ -6,28 +6,17 @@
 [gamedb achievement=174]
 [gamedb achievement=175]
 [gamedb achievement=176]
-[gamedb achievement=180]
+[gamedb achievement=180] (~21st Dec)
 [gamedb achievement=181]
 [gamedb achievement=182]
 [gamedb achievement=183]
 [gamedb achievement=184]
 [gamedb achievement=185]
 [gamedb achievement=186]
-[gamedb achievement=191]
+[gamedb achievement=191] (4th Jan)
 [gamedb achievement=192]
 [gamedb achievement=193]
 [gamedb achievement=194]
-[gamedb achievement=208]
-[gamedb achievement=209]
-[gamedb achievement=210]
-[gamedb achievement=211]
-[gamedb achievement=212]
-[gamedb achievement=213]
-[gamedb achievement=214]
-[gamedb achievement=215]
-[gamedb achievement=217]
-[gamedb achievement=218]
-[gamedb achievement=220]
 
 [emoji=treasure chest size=1] Collecting
 
