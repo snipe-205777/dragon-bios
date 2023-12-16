@@ -32,11 +32,6 @@
 
 [gamedb achievement=434] (~April-May)
 
-[emoji=gear size=1] Activities
-
-[gamedb achievement=480] (16th Dec)
-[gamedb achievement=488] (16th Dec)
-
 [emoji=mystery bag size=1] Misc
 
 [gamedb achievement=585] (28th Jan)
