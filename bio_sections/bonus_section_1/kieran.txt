@@ -20,12 +20,6 @@
 
 [emoji=treasure chest size=1] Collecting
 
-[gamedb achievement=296] (17th Dec)
-[gamedb achievement=297] (17th Dec)
-[gamedb achievement=298] (17th Dec)
-[gamedb achievement=299] (17th Dec)
-[gamedb achievement=300] (17th Dec)
-[gamedb achievement=301] (17th Dec)
 [gamedb achievement=302] (3rd Jan)
 
 [emoji=dice 2 size=1] Games
@@ -38,5 +32,4 @@
 [gamedb achievement=586] (25th Feb)
 [gamedb achievement=587] (24th Mar)
 [gamedb achievement=588] (21st Apr)
-[gamedb achievement=592] (17th Dec)
 [gamedb achievement=634] (22nd Dec)
