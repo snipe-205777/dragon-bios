@@ -24,7 +24,6 @@
 [gamedb achievement=174]
 [gamedb achievement=175]
 [gamedb achievement=176]
-[gamedb achievement=180] (~21st Dec)
 [gamedb achievement=181]
 [gamedb achievement=182]
 [gamedb achievement=183]
@@ -50,7 +49,6 @@
 [gamedb achievement=586] (25th Feb)
 [gamedb achievement=587] (24th Mar)
 [gamedb achievement=588] (21st Apr)
-[gamedb achievement=634] (22nd Dec)
 [center][img alt='divider']https://66.media.tumblr.com/515b3114f1bad4a607fb7ea5af2b4531/tumblr_inline_o25fvvo1fd1r3lvtf_1280.png[/img][/center]
 [center][color=#21e3e1][size=5]Art[/size][/color]
 [size=1]All pieces link to artist[/size]

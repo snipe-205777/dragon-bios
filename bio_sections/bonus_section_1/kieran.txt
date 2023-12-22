@@ -6,7 +6,6 @@
 [gamedb achievement=174]
 [gamedb achievement=175]
 [gamedb achievement=176]
-[gamedb achievement=180] (~21st Dec)
 [gamedb achievement=181]
 [gamedb achievement=182]
 [gamedb achievement=183]
@@ -32,4 +31,3 @@
 [gamedb achievement=586] (25th Feb)
 [gamedb achievement=587] (24th Mar)
 [gamedb achievement=588] (21st Apr)
-[gamedb achievement=634] (22nd Dec)
