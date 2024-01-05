@@ -11,16 +11,15 @@ Familiars
 [indent]
 Coli boss - Stone Borer
 Marva - Hex Noggle, Striped Noggle
-Fiona - Archer Bug, Moonrock Collector
 [/indent]
 
 Vistas
 [indent]
 Coli - Forbidden Portal, Silk-Strewn Wreckage
-Gem MP - Armory, Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Chandelier, Gem Hoarder, Lantern Forest, Night Sky, Corgi Sploot
-Breed - Guardian, Pearlcatcher, Spiral, Bogsneak, Coatl, Gaoler, Veilspun, Obelisk, Aberration, Undertide, Aether
-Ribbons - Progress, Rainbow, Gay, Lesbian, Bisexual, Pansexual, Asexual, Transgender, Nonbinary, Genderfluid, Demigirl, Demiboy, Agender, Demisexual
-Minifest - Springswarm, Meatheat, Drakeharvest
+Gem MP - Armory, Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Gem Hoarder, Lantern Forest, Night Sky, Corgi Sploot, Shoreline Serenity
+Breed - Guardian, Pearlcatcher, Spiral, Bogsneak, Obelisk, Coatl, Gaoler, Veilspun, Aberration, Undertide, Aether, Auraboa
+Ribbons - Progress, Rainbow, Gay, Lesbian, Bisexual, Pansexual, Asexual, Nonbinary, Genderfluid, Demigirl, Demiboy, Agender, Demisexual
+Minifest - Springswarm, Meatheat
 [/indent]
 
 Den Items
@@ -33,6 +32,5 @@ Random apparel - newer apparel would be good, I've barely got any non-fest items
 [gamedb item=28776]
 [gamedb item=47438]/[gamedb item=47437]
 Harvest apparel
-[gamedb item=36180] and other colours
 
 Art - [url=https://www1.flightrising.com/dragon/79556756]Foramen[/url], [url=https://www1.flightrising.com/dragon/22617663]Coronium[/url], [url=https://www1.flightrising.com/dragon/22617563]Loreley[/url], [url=https://www1.flightrising.com/dragon/258821]Kieran[/url], [url=https://www1.flightrising.com/dragon/32651287]Kevin (OG)[/url], [url=https://www1.flightrising.com/dragon/36634187]Nasnan[/url], [url=https://www1.flightrising.com/dragon/19465093]Poddlewise[/url], [url=https://www1.flightrising.com/dragon/29256577]Borvo[/url], [url=https://www1.flightrising.com/dragon/17411624]Nefas[/url], [url=https://www1.flightrising.com/dragon/24362252]Cabbage[/url], [url=https://www1.flightrising.com/dragon/47145093]Dagian[/url], [url=https://www1.flightrising.com/dragon/53038543]Jay[/url], [url=https://www1.flightrising.com/dragon/54852230]H&S[/url], [url=https://www1.flightrising.com/dragon/24209424]Fen[/url], [url=https://www1.flightrising.com/dragon/59589851]Eryn[/url], [url=https://www1.flightrising.com/dragon/82224599]Ash[/url], [url=https://www1.flightrising.com/dragon/76018015]Ireo[/url]
