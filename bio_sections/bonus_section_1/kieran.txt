@@ -1,25 +1,20 @@
 [emoji=eternal youth size=1] Breeding
 
-[gamedb achievement=171]
+[gamedb achievement=171] (~July)
 [gamedb achievement=172]
 [gamedb achievement=173]
 [gamedb achievement=174]
 [gamedb achievement=175]
 [gamedb achievement=176]
-[gamedb achievement=181]
+[gamedb achievement=181] (~July)
 [gamedb achievement=182]
 [gamedb achievement=183]
 [gamedb achievement=184]
 [gamedb achievement=185]
 [gamedb achievement=186]
-[gamedb achievement=191] (4th Jan)
-[gamedb achievement=192]
+[gamedb achievement=192] (14th Apr)
 [gamedb achievement=193]
 [gamedb achievement=194]
-
-[emoji=treasure chest size=1] Collecting
-
-[gamedb achievement=302] (3rd Jan)
 
 [emoji=dice 2 size=1] Games
 
