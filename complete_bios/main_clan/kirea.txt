@@ -33,7 +33,6 @@ Tert - Glimmer x1
 Familiars
 [indent]
 Coli boss - Stone Borer
-Marva - Hex Noggle, Striped Noggle
 [/indent]
 
 Vistas
