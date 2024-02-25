@@ -16,7 +16,7 @@ Vistas
 [indent]
 Coli - Forbidden Portal, Silk-Strewn Wreckage
 Gem MP - Armory, Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Gem Hoarder, Lantern Forest, Night Sky, Corgi Sploot, Shoreline Serenity
-Breed - Guardian, Pearlcatcher, Spiral, Bogsneak, Obelisk, Coatl, Gaoler, Veilspun, Aberration, Undertide, Aether, Auraboa
+Breed - Guardian, Pearlcatcher, Spiral, Obelisk, Coatl, Gaoler, Veilspun, Aberration, Undertide, Aether, Auraboa
 Ribbons - Progress, Rainbow, Gay, Lesbian, Bisexual, Pansexual, Asexual, Nonbinary, Genderfluid, Demigirl, Demiboy, Agender, Demisexual
 Minifest - Springswarm, Meatheat
 [/indent]
