@@ -22,7 +22,5 @@
 
 [emoji=mystery bag size=1] Misc
 
-[gamedb achievement=585] (28th Jan)
-[gamedb achievement=586] (25th Feb)
 [gamedb achievement=587] (24th Mar)
 [gamedb achievement=588] (21st Apr)
