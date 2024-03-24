@@ -21,7 +21,6 @@ New lyrics pairs
 Alt text for collections, slivers and Invictus
 Code missing alt text bio checker
 Sort out colour contrast for bio header text
-Replace Bat Bonanza images with non-Discord versions
 [center][img alt='divider']https://66.media.tumblr.com/e58e2ece913e9b9dfc882a7c4ed92290/tumblr_inline_o25g26iyqp1r3lvtf_1280.png[/img][/center]
 [right][size=1]Credits:
 Bio template: Snipe 205777
