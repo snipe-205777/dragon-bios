@@ -22,5 +22,4 @@
 
 [emoji=mystery bag size=1] Misc
 
-[gamedb achievement=587] (24th Mar)
 [gamedb achievement=588] (21st Apr)
