@@ -12,5 +12,5 @@
 [gamedb achievement=184]
 [gamedb achievement=185]
 [gamedb achievement=186]
-[gamedb achievement=193] (9th Jun)
+[gamedb achievement=193] (24th Jul)
 [gamedb achievement=194]
