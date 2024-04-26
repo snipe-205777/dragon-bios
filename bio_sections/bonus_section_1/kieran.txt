@@ -12,14 +12,5 @@
 [gamedb achievement=184]
 [gamedb achievement=185]
 [gamedb achievement=186]
-[gamedb achievement=192] (14th Apr)
-[gamedb achievement=193]
+[gamedb achievement=193] (9th Jun)
 [gamedb achievement=194]
-
-[emoji=dice 2 size=1] Games
-
-[gamedb achievement=434] (~April-May)
-
-[emoji=mystery bag size=1] Misc
-
-[gamedb achievement=588] (21st Apr)
