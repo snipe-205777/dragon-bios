@@ -23,7 +23,7 @@ Minifest - Meatheat
 
 Den Items
 [indent]
-Hydra, Blend, Mosaic, Banescale Scroll, Blaze, Aether, Catercroak, Fire Grub Swarm
+Hydra, Banescale Scroll, Catercroak, Fire Grub Swarm
 [/indent]
 
 Eggs
