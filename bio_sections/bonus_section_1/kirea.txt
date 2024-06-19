@@ -14,20 +14,20 @@ Coli boss - Stone Borer
 
 Vistas
 [indent]
-Coli - Forbidden Portal, Silk-Strewn Wreckage
-Gem MP - Armory, Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Gem Hoarder, Lantern Forest, Night Sky, Corgi Sploot, Shoreline Serenity
-Breed - Guardian, Spiral, Obelisk, Coatl, Gaoler, Aberration, Undertide, Aether, Auraboa
-Ribbons - Progress, Rainbow, Gay, Lesbian, Bisexual, Pansexual, Asexual, Nonbinary, Genderfluid, Demigirl, Demiboy, Demisexual
-Minifest - Meatheat
+Coli - Forbidden Portal, Silk-Strewn Wreckage, Talonok
+Gem MP - Armory, Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Corgi Sploot, Gem Hoarder, Lantern Forest, Night Sky, Shoreline Serenity
+Breed - Aberration, Aether, Auraboa, Coatl, Dusthide, Fathom, Gaoler, Guardian, Obelisk, Spiral, Undertide
+Ribbons - Asexual, Bisexual, Demiboy, Demigirl, Demisexual, Gay, Genderfluid, Lesbian, Nonbinary, Progress, Rainbow
+Marva - An Eye For Buttons, Marva's Magic, The Finest Treasure
 [/indent]
 
 Den Items
 [indent]
-Hydra, Banescale Scroll, Catercroak, Fire Grub Swarm
+Catercroak, Saddle, Boa, Auraboa, Dusthide, Banescale, Hydra
 [/indent]
 
 Eggs
-Random apparel - newer apparel would be good, I've barely got any non-fest items from 2021/22
+Random apparel - newer apparel would be good, I mostly only buy fest apparel now
 [gamedb item=28776]
 [gamedb item=47438]/[gamedb item=47437]
 Harvest apparel
