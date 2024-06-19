@@ -24,7 +24,6 @@
 [gamedb achievement=174]
 [gamedb achievement=175]
 [gamedb achievement=176]
-[gamedb achievement=181] (~July)
 [gamedb achievement=182]
 [gamedb achievement=183]
 [gamedb achievement=184]
