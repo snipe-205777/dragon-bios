@@ -14,11 +14,12 @@ Coli boss - Stone Borer
 
 Vistas
 [indent]
-Coli - Forbidden Portal, Silk-Strewn Wreckage, Talonok
+Breed - Aberration, Aether, Auraboa, Coatl, Gaoler, Guardian, Obelisk, Spiral, Undertide
+Coli - Forbidden Portal, Silk-Strewn Wreckage, Talonok, The Boneyard
 Gem MP - Armory, Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Corgi Sploot, Gem Hoarder, Lantern Forest, Night Sky, Shoreline Serenity
-Breed - Aberration, Aether, Auraboa, Coatl, Dusthide, Fathom, Gaoler, Guardian, Obelisk, Spiral, Undertide
-Ribbons - Asexual, Bisexual, Demiboy, Demigirl, Demisexual, Gay, Genderfluid, Lesbian, Nonbinary, Progress, Rainbow
 Marva - An Eye For Buttons, Marva's Magic, The Finest Treasure
+Night of the Nocturne - Snarling Mimic
+Ribbons - Asexual, Bisexual, Demiboy, Demigirl, Demisexual, Gay, Genderfluid, Lesbian, Nonbinary, Progress, Rainbow
 [/indent]
 
 Den Items
