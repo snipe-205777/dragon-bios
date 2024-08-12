@@ -10,7 +10,8 @@ def code_badge(badge_name):
     badge = badges.loc[badge_name]
 
     text_format = "[center][size=1]" if badge["Caption"] else ""
-    image = f'[img alt="{badge["Alt Text"]}"]{badge["Image"]}[/img]' if badge["Image"] else ""
+    alt_text = f' alt="{badge["Alt Text"]}"' if badge["Alt Text"] else ""
+    image = f'[img{alt_text}]{badge["Image"]}[/img]' if badge["Image"] else ""
     url_open = f'[url={badge["Link"]}]' if badge["Link"] else ""
     url_close = "[/url]" if badge["Link"] else ""
     
