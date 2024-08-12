@@ -26,7 +26,7 @@ def code_section(section):
         section_badges.append(coded_row)
 
     joint_badges = "[/columns][br][br][columns]".join(section_badges)
-    section = f"{section_header}[columns]{joint_badges}[/columns]"
+    section = f"{section_header}\n\n[columns]{joint_badges}[/columns]"
     return section.replace("[br]", "\n")
 
 
