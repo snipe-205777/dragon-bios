@@ -8,9 +8,13 @@ def code_badge(badge_name):
     badges = badges.set_index("Name")
 
     badge = badges.loc[badge_name]
+
     text_format = "[center][size=1]" if badge["Caption"] else ""
     image = f'[img alt="{badge["Alt Text"]}"]{badge["Image"]}[/img]' if badge["Image"] else ""
-    return f'{text_format}{badge["Pre-image"]}[url={badge["Link"]}]{image}[/url]\n{badge["Caption"]}'
+    url_open = f'[url={badge["Link"]}]' if badge["Link"] else ""
+    url_close = "[/url]" if badge["Link"] else ""
+    
+    return f'{text_format}{badge["Pre-image"]}{url_open}{image}{url_close}\n{badge["Caption"]}'
 
 
 def code_section(section):
