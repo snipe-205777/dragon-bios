@@ -1,4 +1,5 @@
 import pandas as pd
+from badge_layout import badge_layout
 
 
 def code_badge(badge_name):
@@ -29,7 +30,15 @@ def code_section(section):
 
 
 def compile_badges():
-    pass
+    all_sections = []
+
+    for section in badge_layout:
+        all_sections.append(code_section(section))
+
+    filename = "bio_sections/bonus_section_2/concerto.txt"
+
+    with open(filename, "w", encoding="utf-8") as file:
+        file.write("\n\n".join(all_sections))
 
 
 if __name__ == "__main__":
