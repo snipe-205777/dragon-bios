@@ -12,6 +12,7 @@ from utils.bio_blocks.dividers import dividers
 from utils.bio_blocks.header import create_header
 from utils.bio_blocks.main_content import main_content
 from utils.bio_blocks.relationships import relationships_block
+from utils.bio_warnings import bio_warnings
 
 with warnings.catch_warnings():
     warnings.filterwarnings("ignore", category=UserWarning)
@@ -59,6 +60,8 @@ def create_bio(dragon):
     with open(bio_file, "w", encoding="utf-8") as file:
         file.write(bio)
         cprint(f"{' ' * (16-len(dragon['name']))}{dragon['name']}: {message}", color)
+
+    bio_warnings(dragon["name"], bio)
 
 
 if __name__ == "__main__":
