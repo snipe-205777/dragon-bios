@@ -30,14 +30,14 @@ badge_layout = [
             ["AvL", "AvL Prelevel Arcane", "AvL Prelevel Earth", "AvL Prelevel Fire", "AvL Prelevel Wind"],
             ["AvL Prelevel Water", "AvL Prelevel Shadow", "AvL Prelevel Ice", "AvL Prelevel Lightning", "AvL Prelevel Light"],
             ["AvL Prelevel Nature", "AvL Prelevel Plague", "AvL Prelevel Rainbow", "Gone Fishing", "Astrolodome Food Festival"],
-            ["Aetherversary", "Solar Eclipse", "Sprite Quests Jul 24", "Meteorite Mayhem"]
+            ["Aetherversary", "Solar Eclipse", "Sprite Quests Jul 24", "Meteorite Mayhem", "Starfall 2024"]
         ]
     },
     {
         "header": "Bounty Hunter's Guild",
         "badges": [
             ["BHG Reaver", "BHG MVP Profit Aug 16", "BHG MVP Stress Aug 16", "BHG Elite", "BHG Titan"],
-            ["BHG Standard Immortal", "BHG Intense Centurion"]
+            ["BHG Standard Immortal", "BHG Intense Centurion", "BHG Intense Knight"]
         ]
     },
     {
@@ -48,7 +48,7 @@ badge_layout = [
             ["September 18 Bank Goal", "October 18 Bank Goal", "IvL Donation", "200kt SvF", "SSG March 19 2"],
             ["SSG March 19 3", "SSG March 19", "Celestial May 19", "Donation Mar 20", "Bank June 21"],
             ["Bank July 21", "Donation Comp Aug 21", "Bank Sep 21", "Gone Fishing Donation", "Aetherversary Donation"],
-            ["Spring Clean-Out", "Meteorite Donation"]
+            ["Spring Clean-Out", "Meteorite Donation", "Starfall 2024 Donation"]
         ]
     },
     {
