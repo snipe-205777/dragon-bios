@@ -33,6 +33,7 @@ Tert - Glimmer x1
 Familiars
 [indent]
 Coli boss - Stone Borer
+Minifest - Harvest Waxwing, Waxwing Cultivator
 [/indent]
 
 Vistas
@@ -42,12 +43,12 @@ Coli - Forbidden Portal, Silk-Strewn Wreckage, Talonok, The Boneyard
 Gem MP - Armory, Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Corgi Sploot, Gem Hoarder, Lantern Forest, Night Sky, Shoreline Serenity
 Marva - An Eye For Buttons, Marva's Magic, The Finest Treasure
 Night of the Nocturne - Snarling Mimic
-Ribbons - Asexual, Bisexual, Demiboy, Demigirl, Demisexual, Gay, Genderfluid, Lesbian, Nonbinary, Progress, Rainbow
+Ribbons - Asexual, Bisexual, Demigirl, Demisexual, Gay, Genderfluid, Lesbian, Nonbinary, Progress, Rainbow
 [/indent]
 
 Den Items
 [indent]
-Catercroak, Saddle, Boa, Auraboa, Dusthide, Banescale, Hydra
+Catercroak, Hydra
 [/indent]
 
 Eggs
