@@ -25,7 +25,7 @@ Mia
 [img alt="Sitting Mia"]https://i.imgur.com/bwQWVA0.gif[/img][img alt="Standing Mia"]https://i.imgur.com/5tIcREg.gif[/img][img alt="Lying Mia"]https://i.imgur.com/pAzrg4o.gif[/img][img alt="Playing Mia"]https://i.imgur.com/8IZw5zO.gif[/img][img alt="Upside-down Mia"]https://i.imgur.com/o7KT1Q6.gif[/img]
 
 Sundae
-[img alt="Sitting Sundae"]https://i.imgur.com/xAVzxJT.gif[/img][img alt="Standing Sundae"]https://i.imgur.com/ntrhgFi.gif[/img][img alt="Lying Sundae"]https://i.imgur.com/gJSRXIi.gif[/img][img alt="Playing Sundae"]https://i.imgur.com/jqSVrJ4.gif[/img][img alt="Upside-down Sundae"]https://i.imgur.com/ZWYDfLz.gif[/img]
+[img alt="Sitting Sundae"]https://i.imgur.com/xAVzxJT.gif[/img][img alt="Standing Sundae"]https://i.imgur.com/ntrhgFi.gif[/img][img alt="Lying Sundae"]https://i.imgur.com/gJSRXIi.gif[/img][img alt="Playing Sundae"]https://i.imgur.com/jqSVrJ4.gif[/img][img alt="Upside-down Silhouette"]https://i.imgur.com/ZWYDfLz.gif[/img]
 
 Kiki
 [img alt="Sitting Kiki"]https://i.imgur.com/GktneFj.gif[/img][img alt="Standing Kiki"]https://i.imgur.com/ut6HnRp.gif[/img][img alt="Lying Kiki"]https://i.imgur.com/WryL14b.gif[/img][img alt="Playing Kiki"]https://i.imgur.com/wnvFra9.gif[/img][img alt="Upside-down Kiki"]https://i.imgur.com/PSP72IT.gif[/img]
@@ -61,7 +61,7 @@ Patches
 [img alt="Sitting Patches"]https://i.imgur.com/CEvzoxE.gif[/img][img alt="Standing Patches"]https://i.imgur.com/PqYinmQ.gif[/img][img alt="Lying Patches"]https://i.imgur.com/SO1w5X3.gif[/img][img alt="Playing Patches"]https://i.imgur.com/7oQhO8R.gif[/img][img alt="Upside-down Patches"]https://i.imgur.com/B2N9ikX.gif[/img]
 
 Frosting
-[img alt="Sitting Frosting"]https://i.imgur.com/E0tpxPX.gif[/img][img alt="Standing Frosting"]https://i.imgur.com/1k0R5W7.gif[/img][img alt="Lying Frosting"]https://i.imgur.com/oW2kpkm.gif[/img][img alt="Playing Frosting"]https://i.imgur.com/bL5Ean4.gif[/img][img alt="Upside-down Frosting"]https://i.imgur.com/WCzAilz.gif[/img]
+[img alt="Sitting Frosting"]https://i.imgur.com/E0tpxPX.gif[/img][img alt="Standing Frosting"]https://i.imgur.com/1k0R5W7.gif[/img][img alt="Lying Frosting"]https://i.imgur.com/oW2kpkm.gif[/img][img alt="Playing Silhouette"]https://i.imgur.com/bL5Ean4.gif[/img][img alt="Upside-down Frosting"]https://i.imgur.com/WCzAilz.gif[/img]
 
 Bubbles
 [img alt="Sitting Bubbles"]https://i.imgur.com/1QJN1XU.gif[/img][img alt="Standing Bubbles"]https://i.imgur.com/RnfLkbx.gif[/img][img alt="Lying Bubbles"]https://i.imgur.com/7Y34LiE.gif[/img][img alt="Playing Bubbles"]https://i.imgur.com/jXAB7Du.gif[/img][img alt="Upside-down Bubbles"]https://i.imgur.com/urNHUZQ.gif[/img]
@@ -76,7 +76,7 @@ Tulip
 [img alt="Sitting Tulip"]https://i.imgur.com/a7jSHqz.gif[/img][img alt="Standing Tulip"]https://i.imgur.com/nNxirvT.gif[/img][img alt="Lying Tulip"]https://i.imgur.com/IzMh0Ac.gif[/img][img alt="Playing Tulip"]https://i.imgur.com/W3eiagj.gif[/img][img alt="Upside-down Tulip"]https://i.imgur.com/qhp24PR.gif[/img]
 
 Ember
-[img alt="Sitting Ember"]https://i.imgur.com/trb5b23.gif[/img][img alt="Standing Ember"]https://i.imgur.com/GBQkPNL.gif[/img][img alt="Lying Ember"]https://i.imgur.com/Ewpp0zU.gif[/img][img alt="Playing Ember"]https://i.imgur.com/fva8kiz.gif[/img][img alt="Upside-down Ember"]https://i.imgur.com/ZWYDfLz.gif[/img]
+[img alt="Sitting Ember"]https://i.imgur.com/trb5b23.gif[/img][img alt="Standing Ember"]https://i.imgur.com/GBQkPNL.gif[/img][img alt="Lying Ember"]https://i.imgur.com/Ewpp0zU.gif[/img][img alt="Playing Ember"]https://i.imgur.com/fva8kiz.gif[/img][img alt="Upside-down Silhouette"]https://i.imgur.com/ZWYDfLz.gif[/img]
 
 Fluffy
 [img alt="Sitting Fluffy"]https://i.imgur.com/OAh6NZE.gif[/img][img alt="Standing Fluffy"]https://i.imgur.com/XjIlibh.gif[/img][img alt="Lying Fluffy"]https://i.imgur.com/kWZP7RQ.gif[/img][img alt="Playing Fluffy"]https://i.imgur.com/zfTVkus.gif[/img][img alt="Upside-down Fluffy"]https://i.imgur.com/qpeSJTT.gif[/img]
@@ -85,7 +85,7 @@ Scar
 [img alt="Sitting Scar"]https://i.imgur.com/sZxcZjC.gif[/img][img alt="Standing Scar"]https://i.imgur.com/URkAddV.gif[/img][img alt="Lying Scar"]https://i.imgur.com/OmOYoxy.gif[/img][img alt="Playing Scar"]https://i.imgur.com/rqhYWqn.gif[/img][img alt="Upside-down Scar"]https://i.imgur.com/BIjZcPf.gif[/img]
 
 Stella
-[img alt="Sitting Stella"]https://i.imgur.com/vPz5OMk.gif[/img][img alt="Standing Stella"]https://i.imgur.com/oZa2n5F.gif[/img][img alt="Lying Stella"]https://i.imgur.com/7y2yiE2.gif[/img][img alt="Playing Stella"]https://i.imgur.com/UKF3LZD.gif[/img][img alt="Upside-down Stella"]https://i.imgur.com/ZWYDfLz.gif[/img]
+[img alt="Sitting Stella"]https://i.imgur.com/vPz5OMk.gif[/img][img alt="Standing Stella"]https://i.imgur.com/oZa2n5F.gif[/img][img alt="Lying Stella"]https://i.imgur.com/7y2yiE2.gif[/img][img alt="Playing Stella"]https://i.imgur.com/UKF3LZD.gif[/img][img alt="Upside-down Silhouette"]https://i.imgur.com/ZWYDfLz.gif[/img]
 
 Milly
 [img alt="Sitting Milly"]https://i.imgur.com/b7HgjfU.gif[/img][img alt="Standing Milly"]https://i.imgur.com/ovVNHgz.gif[/img][img alt="Lying Milly"]https://i.imgur.com/JGeOpCq.gif[/img][img alt="Playing Milly"]https://i.imgur.com/4Ewxovv.gif[/img][img alt="Upside-down Milly"]https://i.imgur.com/tsutERG.gif[/img]
@@ -133,25 +133,25 @@ Supervised Kittens
 [img alt="Sitting Supervised Kittens"]https://i.imgur.com/oJC4UAD.gif[/img][img alt="Standing Supervised Kittens"]https://i.imgur.com/zWsDn2D.gif[/img][img alt="Lying Supervised Kittens"]https://i.imgur.com/OzDCrLK.gif[/img][img alt="Playing Supervised Kittens"]https://i.imgur.com/0rlMcNw.gif[/img][img alt="Upside-down Supervised Kittens"]https://i.imgur.com/v1qGHmB.gif[/img]
 
 Unsupervised Kittens
-[img alt="Sitting Unsupervised Kittens"]https://i.imgur.com/npBGP6c.gif[/img][img alt="Standing Unsupervised Kittens"]https://i.imgur.com/lW6t5fY.gif[/img][img alt="Lying Unsupervised Kittens"]https://i.imgur.com/ALEVs7h.gif[/img][img alt="Playing Unsupervised Kittens"]https://i.imgur.com/013GJLj.gif[/img][img alt="Upside-down Unsupervised Kittens"]https://i.imgur.com/ZWYDfLz.gif[/img]
+[img alt="Sitting Unsupervised Kittens"]https://i.imgur.com/npBGP6c.gif[/img][img alt="Standing Unsupervised Kittens"]https://i.imgur.com/lW6t5fY.gif[/img][img alt="Lying Unsupervised Kittens"]https://i.imgur.com/ALEVs7h.gif[/img][img alt="Playing Unsupervised Kittens"]https://i.imgur.com/013GJLj.gif[/img][img alt="Upside-down Silhouette"]https://i.imgur.com/ZWYDfLz.gif[/img]
 
 Glowcat
 [img alt="Sitting Glowcat"]https://i.imgur.com/Ppt7bct.gif[/img][img alt="Standing Glowcat"]https://i.imgur.com/dqZAZup.gif[/img][img alt="Lying Glowcat"]https://i.imgur.com/mZpZXrG.gif[/img][img alt="Playing Glowcat"]https://i.imgur.com/ljTSTgD.gif[/img][img alt="Upside-down Glowcat"]https://i.imgur.com/ClOWtN6.gif[/img]
 
 Sugar
-[img alt="Sitting Sugar"]https://i.imgur.com/Pzj2oCM.gif[/img][img alt="Standing Sugar"]https://i.imgur.com/y9HaBAq.gif[/img][img alt="Lying Sugar"]https://i.imgur.com/CsnDOQQ.gif[/img][img alt="Playing Sugar"]https://i.imgur.com/JFT4bWw.gif[/img][img alt="Upside-down Sugar"]https://i.imgur.com/DMoBXpT.gif[/img]
+[img alt="Sitting Sugar"]https://i.imgur.com/Pzj2oCM.gif[/img][img alt="Standing Sugar"]https://i.imgur.com/y9HaBAq.gif[/img][img alt="Lying Silhouette"]https://i.imgur.com/CsnDOQQ.gif[/img][img alt="Playing Sugar"]https://i.imgur.com/JFT4bWw.gif[/img][img alt="Upside-down Sugar"]https://i.imgur.com/DMoBXpT.gif[/img]
 
 Cocoa
 [img alt="Sitting Cocoa"]https://i.imgur.com/z8MkXnl.gif[/img][img alt="Standing Cocoa"]https://i.imgur.com/Q6oPqvh.gif[/img][img alt="Lying Cocoa"]https://i.imgur.com/t9WZ2sw.gif[/img][img alt="Playing Cocoa"]https://i.imgur.com/4UeT7y0.gif[/img][img alt="Upside-down Cocoa"]https://i.imgur.com/XlnLoY1.gif[/img]
 
 Cactus
-[img alt="Sitting Cactus"]https://i.imgur.com/D9JTqKv.gif[/img][img alt="Standing Cactus"]https://i.imgur.com/pPd69YN.gif[/img][img alt="Lying Cactus"]https://i.imgur.com/g7ZT8JU.gif[/img][img alt="Playing Cactus"]https://i.imgur.com/Xhf3gBU.gif[/img][img alt="Upside-down Cactus"]https://i.imgur.com/ZWYDfLz.gif[/img]
+[img alt="Sitting Cactus"]https://i.imgur.com/D9JTqKv.gif[/img][img alt="Standing Cactus"]https://i.imgur.com/pPd69YN.gif[/img][img alt="Lying Cactus"]https://i.imgur.com/g7ZT8JU.gif[/img][img alt="Playing Cactus"]https://i.imgur.com/Xhf3gBU.gif[/img][img alt="Upside-down Silhouette"]https://i.imgur.com/ZWYDfLz.gif[/img]
 
 Zip
 [img alt="Sitting Zip"]https://i.imgur.com/yttVedv.gif[/img][img alt="Standing Zip"]https://i.imgur.com/y1OCrFB.gif[/img][img alt="Lying Zip"]https://i.imgur.com/rCL1II5.gif[/img][img alt="Playing Zip"]https://i.imgur.com/zR9bdu4.gif[/img][img alt="Upside-down Zip"]https://i.imgur.com/pCpfiIG.gif[/img]
 
 Peppermint
-[img alt="Sitting Peppermint"]https://i.imgur.com/abBpb5R.gif[/img][img alt="Standing Peppermint"]https://i.imgur.com/tKrydEF.gif[/img][img alt="Lying Peppermint"]https://i.imgur.com/CCqPA04.gif[/img][img alt="Playing Peppermint"]https://i.imgur.com/zLAvy4j.gif[/img][img alt="Upside-down Peppermint"]https://i.imgur.com/ZWYDfLz.gif[/img]
+[img alt="Sitting Peppermint"]https://i.imgur.com/abBpb5R.gif[/img][img alt="Standing Peppermint"]https://i.imgur.com/tKrydEF.gif[/img][img alt="Lying Peppermint"]https://i.imgur.com/CCqPA04.gif[/img][img alt="Playing Peppermint"]https://i.imgur.com/zLAvy4j.gif[/img][img alt="Upside-down Silhouette"]https://i.imgur.com/ZWYDfLz.gif[/img]
 
 Flower
 [img alt="Sitting Flower"]https://i.imgur.com/Qw421xh.gif[/img][img alt="Standing Flower"]https://i.imgur.com/zNyfwHD.gif[/img][img alt="Lying Flower"]https://i.imgur.com/K3eRYD9.gif[/img][img alt="Playing Flower"]https://i.imgur.com/UVSIK5X.gif[/img][img alt="Upside-down Flower"]https://i.imgur.com/EP0tXgq.gif[/img]
@@ -166,7 +166,7 @@ Ned
 [img alt="Sitting Ned"]https://i.imgur.com/5caOtnS.gif[/img][img alt="Standing Ned"]https://i.imgur.com/5MJxWWJ.gif[/img][img alt="Lying Ned"]https://i.imgur.com/FvzgXvg.gif[/img][img alt="Playing Ned"]https://i.imgur.com/alIyeBF.gif[/img][img alt="Upside-down Ned"]https://i.imgur.com/Tl70lOl.gif[/img]
 
 Billy
-[img alt="Sitting Billy"]https://i.imgur.com/gRhUIbg.gif[/img][img alt="Standing Billy"]https://i.imgur.com/cEjsO1m.gif[/img][img alt="Lying Billy"]https://i.imgur.com/aFr1bgZ.gif[/img][img alt="Playing Billy"]https://i.imgur.com/YyjRwCw.gif[/img][img alt="Upside-down Billy"]https://i.imgur.com/OFZZm9n.gif[/img]
+[img alt="Sitting Silhouette"]https://i.imgur.com/gRhUIbg.gif[/img][img alt="Standing Billy"]https://i.imgur.com/cEjsO1m.gif[/img][img alt="Lying Billy"]https://i.imgur.com/aFr1bgZ.gif[/img][img alt="Playing Billy"]https://i.imgur.com/YyjRwCw.gif[/img][img alt="Upside-down Billy"]https://i.imgur.com/OFZZm9n.gif[/img]
 
 Foxes
 [img alt="Plentiful Foxes"]https://i.imgur.com/02o21Kw.gif[/img][img alt="Common Foxes"]https://i.imgur.com/LkUshID.gif[/img][img alt="Uncommon Foxes"]https://i.imgur.com/S0eA5pF.gif[/img][img alt="Limited Foxes"]https://i.imgur.com/Ci80Q6y.gif[/img][img alt="Rare Foxes"]https://i.imgur.com/GWnAZaz.gif[/img]
@@ -181,7 +181,7 @@ Snakes
 [img alt="Plentiful Snakes"]https://i.imgur.com/hpoQiEo.gif[/img][img alt="Common Snakes"]https://i.imgur.com/LVE1a5z.gif[/img][img alt="Uncommon Snakes"]https://i.imgur.com/Y6C6Egj.gif[/img][img alt="Limited Snakes"]https://i.imgur.com/7Mm0Twp.gif[/img][img alt="Rare Snakes"]https://i.imgur.com/ypq6E5f.gif[/img]
 
 Squids
-[img alt="Plentiful Squids"]https://i.imgur.com/FlxbI11.gif[/img][img alt="Common Squids"]https://i.imgur.com/EYxvUtm.gif[/img][img alt="Uncommon Squids"]https://i.imgur.com/wX3ATMl.gif[/img][img alt="Limited Squids"]https://i.imgur.com/XkQuSF4.gif[/img][img alt="Rare Squids"]https://i.imgur.com/LaUvVcS.gif[/img]
+[img alt="Plentiful Squids"]https://i.imgur.com/FlxbI11.gif[/img][img alt="Common Squids"]https://i.imgur.com/EYxvUtm.gif[/img][img alt="Uncommon Squids"]https://i.imgur.com/wX3ATMl.gif[/img][img alt="Squid Silhouette"]https://i.imgur.com/XkQuSF4.gif[/img][img alt="Rare Squids"]https://i.imgur.com/LaUvVcS.gif[/img]
 
 Bunnies
 [img alt="Plentiful Bunnies"]https://i.imgur.com/532B5fC.gif[/img][img alt="Common Bunnies"]https://i.imgur.com/3GaEdZj.gif[/img][img alt="Uncommon Bunnies"]https://i.imgur.com/KTEwyZx.gif[/img][img alt="Limited Bunnies"]https://i.imgur.com/OrDloj0.gif[/img][img alt="Rare Bunnies"]https://i.imgur.com/nRBbo0R.gif[/img]
@@ -208,10 +208,10 @@ Ferrets
 [img alt="Plentiful Ferrets"]https://i.imgur.com/Ktk04r1.gif[/img][img alt="Common Ferrets"]https://i.imgur.com/8SVQjdC.gif[/img][img alt="Uncommon Ferrets"]https://i.imgur.com/4yzHVmG.gif[/img][img alt="Limited Ferrets"]https://i.imgur.com/wjrgSeN.gif[/img][img alt="Rare Ferrets"]https://i.imgur.com/7JTyBI4.gif[/img]
 
 Axolotls
-[img alt="Plentiful Axolotls"]https://i.imgur.com/kGRllqT.gif[/img][img alt="Common Axolotls"]https://i.imgur.com/Eh8PGXI.gif[/img][img alt="Uncommon Axolotls"]https://i.imgur.com/A3502O4.gif[/img][img alt="Limited Axolotls"]https://i.imgur.com/YnJbttE.gif[/img][img alt="Rare Axolotls"]https://i.imgur.com/Mwrxbhf.gif[/img]
+[img alt="Plentiful Axolotls"]https://i.imgur.com/kGRllqT.gif[/img][img alt="Common Axolotls"]https://i.imgur.com/Eh8PGXI.gif[/img][img alt="Uncommon Axolotls"]https://i.imgur.com/A3502O4.gif[/img][img alt="Limited Axolotls"]https://i.imgur.com/YnJbttE.gif[/img][img alt="Axolotl Silhouette"]https://i.imgur.com/Mwrxbhf.gif[/img]
 
 Llamas
-[img alt="Plentiful Llamas"]https://i.imgur.com/tXWMKPK.gif[/img][img alt="Common Llamas"]https://i.imgur.com/zbRPGfF.gif[/img][img alt="Uncommon Llamas"]https://i.imgur.com/ZOhasio.gif[/img][img alt="Limited Llamas"]https://i.imgur.com/UI0UthY.gif[/img][img alt="Rare Llamas"]https://i.imgur.com/UI0UthY.gif[/img]
+[img alt="Plentiful Llamas"]https://i.imgur.com/tXWMKPK.gif[/img][img alt="Common Llamas"]https://i.imgur.com/zbRPGfF.gif[/img][img alt="Uncommon Llamas"]https://i.imgur.com/ZOhasio.gif[/img][img alt="Llama Silhouette"]https://i.imgur.com/UI0UthY.gif[/img][img alt="Llama Silhouette"]https://i.imgur.com/UI0UthY.gif[/img]
 
 Frogs
 [img alt="Plentiful Frogs"]https://i.imgur.com/nSVYNPo.gif[/img][img alt="Common Frogs"]https://i.imgur.com/AAdmVpN.gif[/img][img alt="Uncommon Frogs"]https://i.imgur.com/9tl1qHF.gif[/img][img alt="Limited Frogs"]https://i.imgur.com/Jq56E7n.gif[/img][img alt="Rare Frogs"]https://i.imgur.com/hXRFIka.gif[/img]
@@ -226,37 +226,37 @@ Tall
 [img alt="Plentiful Tall"]https://i.imgur.com/ZjozWlq.gif[/img][img alt="Common Tall"]https://i.imgur.com/xADycnv.gif[/img][img alt="Uncommon Tall"]https://i.imgur.com/pI26Vw3.gif[/img][img alt="Limited Tall"]https://i.imgur.com/6u8jxGc.gif[/img][img alt="Rare Tall"]https://i.imgur.com/NJTJOHo.gif[/img]
 
 Sharks
-[img alt="Plentiful Sharks"]https://i.imgur.com/p9ysrcS.gif[/img][img alt="Common Sharks"]https://i.imgur.com/YfTeGLj.gif[/img][img alt="Uncommon Sharks"]https://i.imgur.com/UjiwppG.gif[/img][img alt="Limited Sharks"]https://i.imgur.com/YfTeGLj.gif[/img][img alt="Rare Sharks"]https://i.imgur.com/zlR7XiH.gif[/img]
+[img alt="Plentiful Sharks"]https://i.imgur.com/p9ysrcS.gif[/img][img alt="Shark Silhouette"]https://i.imgur.com/YfTeGLj.gif[/img][img alt="Uncommon Sharks"]https://i.imgur.com/UjiwppG.gif[/img][img alt="Shark Silhouette"]https://i.imgur.com/YfTeGLj.gif[/img][img alt="Rare Sharks"]https://i.imgur.com/zlR7XiH.gif[/img]
 
 Monkeys
-[img alt="Plentiful Monkeys"]https://i.imgur.com/EZZuKnZ.gif[/img][img alt="Common Monkeys"]https://i.imgur.com/EZZuKnZ.gif[/img][img alt="Uncommon Monkeys"]https://i.imgur.com/EZZuKnZ.gif[/img][img alt="Limited Monkeys"]https://i.imgur.com/yJtBLop.gif[/img][img alt="Rare Monkeys"]https://i.imgur.com/GOEy63Y.gif[/img]
+[img alt="Monkey Silhouette"]https://i.imgur.com/EZZuKnZ.gif[/img][img alt="Monkey Silhouette"]https://i.imgur.com/EZZuKnZ.gif[/img][img alt="Monkey Silhouette"]https://i.imgur.com/EZZuKnZ.gif[/img][img alt="Limited Monkeys"]https://i.imgur.com/yJtBLop.gif[/img][img alt="Rare Monkeys"]https://i.imgur.com/GOEy63Y.gif[/img]
 
 Sengi
-[img alt="Plentiful Sengi"]https://i.imgur.com/NsQyBkU.gif[/img][img alt="Common Sengi"]https://i.imgur.com/NsQyBkU.gif[/img][img alt="Uncommon Sengi"]https://i.imgur.com/NsQyBkU.gif[/img][img alt="Limited Sengi"]https://i.imgur.com/NsQyBkU.gif[/img][img alt="Rare Sengi"]https://i.imgur.com/p6JJ7rx.gif[/img]
+[img alt="Sengi Silhouette"]https://i.imgur.com/NsQyBkU.gif[/img][img alt="Sengi Silhouette"]https://i.imgur.com/NsQyBkU.gif[/img][img alt="Sengi Silhouette"]https://i.imgur.com/NsQyBkU.gif[/img][img alt="Sengi Silhouette"]https://i.imgur.com/NsQyBkU.gif[/img][img alt="Rare Sengi"]https://i.imgur.com/p6JJ7rx.gif[/img]
 
 Horses
-[img alt="Plentiful Horses"]https://i.imgur.com/JcltweW.gif[/img][img alt="Common Horses"]https://i.imgur.com/ocZGOvK.gif[/img][img alt="Uncommon Horses"]https://i.imgur.com/ocZGOvK.gif[/img][img alt="Limited Horses"]https://i.imgur.com/ocZGOvK.gif[/img][img alt="Rare Horses"]https://i.imgur.com/ocZGOvK.gif[/img]
+[img alt="Plentiful Horses"]https://i.imgur.com/JcltweW.gif[/img][img alt="Horse Silhouette"]https://i.imgur.com/ocZGOvK.gif[/img][img alt="Horse Silhouette"]https://i.imgur.com/ocZGOvK.gif[/img][img alt="Horse Silhouette"]https://i.imgur.com/ocZGOvK.gif[/img][img alt="Horse Silhouette"]https://i.imgur.com/ocZGOvK.gif[/img]
 
 Saiga
-[img alt="Plentiful Saiga"]https://i.imgur.com/f9e0IOA.gif[/img][img alt="Common Saiga"]https://i.imgur.com/A0pI29C.gif[/img][img alt="Uncommon Saiga"]https://i.imgur.com/f9e0IOA.gif[/img][img alt="Limited Saiga"]https://i.imgur.com/lUdYcRF.gif[/img][img alt="Rare Saiga"]https://i.imgur.com/6ASepbV.gif[/img]
+[img alt="Saiga Silhouette"]https://i.imgur.com/f9e0IOA.gif[/img][img alt="Common Saiga"]https://i.imgur.com/A0pI29C.gif[/img][img alt="Saiga Silhouette"]https://i.imgur.com/f9e0IOA.gif[/img][img alt="Limited Saiga"]https://i.imgur.com/lUdYcRF.gif[/img][img alt="Rare Saiga"]https://i.imgur.com/6ASepbV.gif[/img]
 
 Discus
-[img alt="Plentiful Discus"]https://i.imgur.com/9KqpHf1.gif[/img][img alt="Common Discus"]https://i.imgur.com/ySECSO3.gif[/img][img alt="Uncommon Discus"]https://i.imgur.com/jcqW7rz.gif[/img][img alt="Limited Discus"]https://i.imgur.com/kpESfHW.gif[/img][img alt="Rare Discus"]https://i.imgur.com/ySECSO3.gif[/img]
+[img alt="Plentiful Discus"]https://i.imgur.com/9KqpHf1.gif[/img][img alt="Discus Silhouette"]https://i.imgur.com/ySECSO3.gif[/img][img alt="Uncommon Discus"]https://i.imgur.com/jcqW7rz.gif[/img][img alt="Limited Discus"]https://i.imgur.com/kpESfHW.gif[/img][img alt="Discus Silhouette"]https://i.imgur.com/ySECSO3.gif[/img]
 
 Bears
-[img alt="Plentiful Bears"]https://i.imgur.com/rixbYBy.gif[/img][img alt="Common Bears"]https://i.imgur.com/JcdwpXj.gif[/img][img alt="Uncommon Bears"]https://i.imgur.com/JcdwpXj.gif[/img][img alt="Limited Bears"]https://i.imgur.com/JcdwpXj.gif[/img][img alt="Rare Bears"]https://i.imgur.com/JcdwpXj.gif[/img]
+[img alt="Plentiful Bears"]https://i.imgur.com/rixbYBy.gif[/img][img alt="Bear Silhouette"]https://i.imgur.com/JcdwpXj.gif[/img][img alt="Bear Silhouette"]https://i.imgur.com/JcdwpXj.gif[/img][img alt="Bear Silhouette"]https://i.imgur.com/JcdwpXj.gif[/img][img alt="Bear Silhouette"]https://i.imgur.com/JcdwpXj.gif[/img]
 
 Boar
-[img alt="Plentiful Boar"]https://i.imgur.com/uhpABcB.gif[/img][img alt="Common Boar"]https://i.imgur.com/uhpABcB.gif[/img][img alt="Uncommon Boar"]https://i.imgur.com/uhpABcB.gif[/img][img alt="Limited Boar"]https://i.imgur.com/uhpABcB.gif[/img][img alt="Rare Boar"]https://i.imgur.com/uhpABcB.gif[/img]
+[img alt="Boar Silhouette"]https://i.imgur.com/uhpABcB.gif[/img][img alt="Boar Silhouette"]https://i.imgur.com/uhpABcB.gif[/img][img alt="Boar Silhouette"]https://i.imgur.com/uhpABcB.gif[/img][img alt="Boar Silhouette"]https://i.imgur.com/uhpABcB.gif[/img][img alt="Boar Silhouette"]https://i.imgur.com/uhpABcB.gif[/img]
 
 Fancy Birds
-[img alt="Plentiful Fancy Birds"]https://i.imgur.com/NWQXtGg.gif[/img][img alt="Common Fancy Birds"]https://i.imgur.com/R5DA0t6.gif[/img][img alt="Uncommon Fancy Birds"]https://i.imgur.com/R5DA0t6.gif[/img][img alt="Limited Fancy Birds"]https://i.imgur.com/R5DA0t6.gif[/img][img alt="Rare Fancy Birds"]https://i.imgur.com/R5DA0t6.gif[/img]
+[img alt="Plentiful Fancy Birds"]https://i.imgur.com/NWQXtGg.gif[/img][img alt="Fancy Bird Silhouette"]https://i.imgur.com/R5DA0t6.gif[/img][img alt="Fancy Bird Silhouette"]https://i.imgur.com/R5DA0t6.gif[/img][img alt="Fancy Bird Silhouette"]https://i.imgur.com/R5DA0t6.gif[/img][img alt="Fancy Bird Silhouette"]https://i.imgur.com/R5DA0t6.gif[/img]
 
 Tortoises
-[img alt="Plentiful Tortoises"]https://i.imgur.com/6GvBUdD.gif[/img][img alt="Common Tortoises"]https://i.imgur.com/6GvBUdD.gif[/img][img alt="Uncommon Tortoises"]https://i.imgur.com/72R9CqG.gif[/img][img alt="Limited Tortoises"]https://i.imgur.com/6GvBUdD.gif[/img][img alt="Rare Tortoises"]https://i.imgur.com/6GvBUdD.gif[/img]
+[img alt="Tortoise Silhouette"]https://i.imgur.com/6GvBUdD.gif[/img][img alt="Tortoise Silhouette"]https://i.imgur.com/6GvBUdD.gif[/img][img alt="Uncommon Tortoises"]https://i.imgur.com/72R9CqG.gif[/img][img alt="Tortoise Silhouette"]https://i.imgur.com/6GvBUdD.gif[/img][img alt="Tortoise Silhouette"]https://i.imgur.com/6GvBUdD.gif[/img]
 
 Octopi
-[img alt="Plentiful Octopi"]https://i.imgur.com/u78snIn.gif[/img][img alt="Common Octopi"]https://i.imgur.com/R9cREAT.gif[/img][img alt="Uncommon Octopi"]https://i.imgur.com/R9cREAT.gif[/img][img alt="Limited Octopi"]https://i.imgur.com/R9cREAT.gif[/img][img alt="Rare Octopi"]https://i.imgur.com/R9cREAT.gif[/img]
+[img alt="Plentiful Octopi"]https://i.imgur.com/u78snIn.gif[/img][img alt="Octopus Silhouette"]https://i.imgur.com/R9cREAT.gif[/img][img alt="Octopus Silhouette"]https://i.imgur.com/R9cREAT.gif[/img][img alt="Octopus Silhouette"]https://i.imgur.com/R9cREAT.gif[/img][img alt="Octopus Silhouette"]https://i.imgur.com/R9cREAT.gif[/img]
 
 Flight Reps
 [img]https://i.imgur.com/szeRblg.gif[/img][img]https://i.imgur.com/ZwVaRtj.gif[/img][img]https://i.imgur.com/6f1qMVY.gif[/img][img]https://i.imgur.com/ErijSch.gif[/img][img]https://i.imgur.com/PwHm1vg.gif[/img]
