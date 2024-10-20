@@ -6,6 +6,6 @@ Keep the yellow noc?
 Also decide on denned g1s
 And rovers
 New lyrics pairs
-Alt text for collections, slivers and Invictus
-Code missing alt text bio checker
+Alt text for badges, tigers and bats
+Split up badge collection
 Sort out colour contrast for bio header text
