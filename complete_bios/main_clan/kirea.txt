@@ -38,7 +38,7 @@ Minifest - Harvest Waxwing, Waxwing Cultivator
 
 Vistas
 [indent]
-Breed - Aberration, Aether, Auraboa, Coatl, Gaoler, Guardian, Obelisk, Spiral, Undertide
+Breed - Aberration, Aether, Coatl, Gaoler, Guardian, Obelisk, Spiral, Undertide
 Coli - Forbidden Portal, Silk-Strewn Wreckage, Talonok, The Boneyard
 Gem MP - Armory, Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Corgi Sploot, Gem Hoarder, Lantern Forest, Night Sky, Shoreline Serenity
 Marva - An Eye For Buttons, Marva's Magic, The Finest Treasure
@@ -48,7 +48,7 @@ Ribbons - Asexual, Bisexual, Demigirl, Demisexual, Gay, Genderfluid, Lesbian, No
 
 Den Items
 [indent]
-Catercroak, Hydra
+Bearded Shrieker, Catercroak, Hydra
 [/indent]
 
 Eggs
