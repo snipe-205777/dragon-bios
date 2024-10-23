@@ -113,7 +113,10 @@ badge_layout = [
             ["Brightshine 21", "Shadow SvI", "Ice SvI Levels", "Ice SvI Sat", "WvL Wind Mercs"],
             ["Heartfelt Delivery", "Everbloom Resort Sat", "Lightning Apr 24 Sun", "Lightning Apr 24 Mon", "Lightning Apr 24 Tue"],
             ["Lightning Apr 24 Wed", "Lightning Apr 24 Thu", "Lightning Apr 24 Fri", "Lightning Apr 24 Sat", "Meteorite Nature Sat"],
-            ["Meteorite Nature Levels"]
+            ["Meteorite Nature Levels", "IvW Boarding Arcane", "IvW Boarding Earth", "IvW Boarding Fire"],
+            ["IvW Boarding Ice", "IvW Boarding Light", "IvW Boarding Lightning", "IvW Boarding Nature"],
+            ["IvW Boarding Plague", "IvW Boarding Shadow", "IvW Boarding Water", "IvW Boarding Wind"],
+            ["IvW Mercing", "IvW Saturday", "IvW 25 Levels", "IvW 50 Levels"]
         ]
     }
 ]
