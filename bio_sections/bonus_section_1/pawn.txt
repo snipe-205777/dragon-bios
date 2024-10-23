@@ -7,5 +7,4 @@ Also decide on denned g1s
 And rovers
 New lyrics pairs
 Alt text for badges, tigers and bats
-Split up badge collection
 Sort out colour contrast for bio header text

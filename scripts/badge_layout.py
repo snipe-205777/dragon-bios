@@ -1,6 +1,7 @@
 badge_layout = [
     {
         "header": "Arcane Dom",
+        "host": "Concerto",
         "badges": [
             ["Snowmageddon", "Quest Push 1", "Quest Push 2", "RPG", "Spirit Week 1"],
             ["Spirit Week 2", "Spirit Week 3", "Spirit Week 4", "Spirit Week 5"],
@@ -35,6 +36,7 @@ badge_layout = [
     },
     {
         "header": "Bounty Hunter's Guild",
+        "host": "Concerto",
         "badges": [
             ["BHG Reaver", "BHG MVP Profit Aug 16", "BHG MVP Stress Aug 16", "BHG Elite", "BHG Titan"],
             ["BHG Standard Immortal", "BHG Intense Centurion", "BHG Intense Knight"]
@@ -42,6 +44,7 @@ badge_layout = [
     },
     {
         "header": "Bonl",
+        "host": "Concerto",
         "badges": [
             ["FvW Donation", "House Cup Donation", "FvL Donation", "AvS Donation Comp", "FGB Stretch Goal 1"],
             ["FGB Stretch Goal 2", "FGB Stretch Goal 3", "Celestial Donation", "Bank Donation Total", "Bank Donation Weeks"],
@@ -52,7 +55,17 @@ badge_layout = [
         ]
     },
     {
+        "header": "Community",
+        "host": "Concerto",
+        "badges": [
+            ["Shadow Meteor", "Wind Meteor", "Meteorbomb Myth Static", "Water Meteor"],
+            ["Nature Meteor", "Light Meteor", "Lightning Meteor", "Fire Meteor"],
+            ["Plague Meteor", "Inktober 16", "Scribbler Reader"]
+        ]
+    },
+    {
         "header": "Supporting",
+        "host": "Lsoko",
         "badges": [
             ["Shadow Mother's Day", "Wind Father's Day 16", "Thundercrack 16", "Wind vS Sun", "Wind vS Wed"],
             ["Wind vS Thu", "PvW Sun/Mon", "PvW Wed/Fri", "Noodle Fest", "RoR 16"],
@@ -101,14 +114,6 @@ badge_layout = [
             ["Heartfelt Delivery", "Everbloom Resort Sat", "Lightning Apr 24 Sun", "Lightning Apr 24 Mon", "Lightning Apr 24 Tue"],
             ["Lightning Apr 24 Wed", "Lightning Apr 24 Thu", "Lightning Apr 24 Fri", "Lightning Apr 24 Sat", "Meteorite Nature Sat"],
             ["Meteorite Nature Levels"]
-        ]
-    },
-    {
-        "header": "Community",
-        "badges": [
-            ["Shadow Meteor", "Wind Meteor", "Meteorbomb Myth Static", "Water Meteor"],
-            ["Nature Meteor", "Light Meteor", "Lightning Meteor", "Fire Meteor"],
-            ["Plague Meteor", "Inktober 16", "Scribbler Reader"]
         ]
     }
 ]
