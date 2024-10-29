@@ -35,7 +35,7 @@ badge_layout = [
         ]
     },
     {
-        "header": "Bounty Hunter's Guild",
+        "header": "Bounty Hunters Guild",
         "host": "Concerto",
         "badges": [
             ["BHG Reaver", "BHG MVP Profit Aug 16", "BHG MVP Stress Aug 16", "BHG Elite", "BHG Titan"],
