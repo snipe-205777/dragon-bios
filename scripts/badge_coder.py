@@ -14,8 +14,9 @@ def code_badge(badge_name):
     image = f'[img{alt_text}]{badge["Image"]}[/img]' if badge["Image"] else ""
     url_open = f'[url={badge["Link"]}]' if badge["Link"] else ""
     url_close = "[/url]" if badge["Link"] else ""
+    brk = "\n" if badge["Image"] else ""
     
-    return f'{text_format}{badge["Pre-image"]}{url_open}{image}{url_close}\n{badge["Caption"]}'
+    return f'{text_format}{badge["Pre-image"]}{url_open}{image}{url_close}{brk}{badge["Caption"]}'
 
 
 def code_section(section):
