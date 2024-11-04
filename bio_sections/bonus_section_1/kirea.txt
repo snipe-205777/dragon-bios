@@ -2,9 +2,9 @@
 
 Genes
 [indent]
-Pri - Pharaoh x1
-Sec - Bee x1, Flair x1, Freckle x1
-Tert - Glimmer x1
+Pri - Fade x1
+Sec - Bee x1, Spinner x1
+Tert - Glimmer x1, Glowtail x1
 [/indent]
 
 Familiars
@@ -16,11 +16,11 @@ Minifest - Harvest Waxwing, Waxwing Cultivator
 Vistas
 [indent]
 Breed - Aberration, Aether, Coatl, Gaoler, Guardian, Obelisk, Spiral, Undertide
-Coli - Forbidden Portal, Silk-Strewn Wreckage, Talonok, The Boneyard
+Coliseum - Forbidden Portal, Silk-Strewn, Talonok
 Gem MP - Armory, Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Corgi Sploot, Gem Hoarder, Lantern Forest, Night Sky, Shoreline Serenity
 Marva - An Eye For Buttons, Marva's Magic, The Finest Treasure
 Night of the Nocturne - Snarling Mimic
-Ribbons - Asexual, Bisexual, Demigirl, Demisexual, Gay, Genderfluid, Lesbian, Nonbinary, Progress, Rainbow
+Ribbons - Asexual, Demigirl, Demisexual, Gay, Genderfluid, Lesbian, Nonbinary, Progress, Rainbow
 [/indent]
 
 Den Items

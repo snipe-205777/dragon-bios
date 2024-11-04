@@ -25,9 +25,9 @@ Usually.
 
 Genes
 [indent]
-Pri - Pharaoh x1
-Sec - Bee x1, Flair x1, Freckle x1
-Tert - Glimmer x1
+Pri - Fade x1
+Sec - Bee x1, Spinner x1
+Tert - Glimmer x1, Glowtail x1
 [/indent]
 
 Familiars
@@ -39,11 +39,11 @@ Minifest - Harvest Waxwing, Waxwing Cultivator
 Vistas
 [indent]
 Breed - Aberration, Aether, Coatl, Gaoler, Guardian, Obelisk, Spiral, Undertide
-Coli - Forbidden Portal, Silk-Strewn Wreckage, Talonok, The Boneyard
+Coliseum - Forbidden Portal, Silk-Strewn Wreckage, Talonok
 Gem MP - Armory, Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Corgi Sploot, Gem Hoarder, Lantern Forest, Night Sky, Shoreline Serenity
 Marva - An Eye For Buttons, Marva's Magic, The Finest Treasure
 Night of the Nocturne - Snarling Mimic
-Ribbons - Asexual, Bisexual, Demigirl, Demisexual, Gay, Genderfluid, Lesbian, Nonbinary, Progress, Rainbow
+Ribbons - Asexual, Demigirl, Demisexual, Gay, Genderfluid, Lesbian, Nonbinary, Progress, Rainbow
 [/indent]
 
 Den Items
@@ -62,6 +62,8 @@ Art - [url=https://www1.flightrising.com/dragon/79556756]Foramen[/url], [url=htt
 [center][u]Temporarily (?) REMOVED from wishlist[/u][/center]
 [gamedb item=6686] or [gamedb item=12322] ([i]possibly[/i] [gamedb item=10491] or [gamedb item=9904] or [gamedb item=7019] or [gamedb item=4950])
 Animal apparel - snakes, rodents etc.
+Pri - Pharaoh x1
+Sec - Flair x1, Freckle x1
 [center][img alt='divider']https://66.media.tumblr.com/515b3114f1bad4a607fb7ea5af2b4531/tumblr_inline_o25fvvo1fd1r3lvtf_1280.png[/img][/center]
 [center][img alt='A bloody crown with the word Victor scrawled on it and Arcane Slack Hunger Games written underneath']http://i.imgur.com/fnF3LPe.png[/img][/center]
 [center][img alt='divider']https://66.media.tumblr.com/515b3114f1bad4a607fb7ea5af2b4531/tumblr_inline_o25fvvo1fd1r3lvtf_1280.png[/img][/center]
