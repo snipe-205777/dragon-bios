@@ -31,7 +31,8 @@ badge_layout = [
             ["AvL", "AvL Prelevel Arcane", "AvL Prelevel Earth", "AvL Prelevel Fire", "AvL Prelevel Wind"],
             ["AvL Prelevel Water", "AvL Prelevel Shadow", "AvL Prelevel Ice", "AvL Prelevel Lightning", "AvL Prelevel Light"],
             ["AvL Prelevel Nature", "AvL Prelevel Plague", "AvL Prelevel Rainbow", "Gone Fishing", "Astrolodome Food Festival"],
-            ["Aetherversary", "Solar Eclipse", "Sprite Quests Jul 24", "Meteorite Mayhem", "Starfall 2024"]
+            ["Aetherversary", "Solar Eclipse", "Sprite Quests Jul 24", "Meteorite Mayhem", "Starfall 2024"],
+            ["Goin Ham"]
         ]
     },
     {
@@ -39,7 +40,8 @@ badge_layout = [
         "host": "Concerto",
         "badges": [
             ["BHG Reaver", "BHG MVP Profit Aug 16", "BHG MVP Stress Aug 16", "BHG Elite", "BHG Titan"],
-            ["BHG Standard Immortal", "BHG Intense Centurion", "BHG Intense Knight"]
+            ["BHG Standard Immortal", "BHG Intense Centurion", "BHG Intense Knight", "Goin Ham BHG"],
+            ["Goin Ham MVP", "Goin Ham Batham"]
         ]
     },
     {
@@ -51,7 +53,7 @@ badge_layout = [
             ["September 18 Bank Goal", "October 18 Bank Goal", "IvL Donation", "200kt SvF", "SSG March 19 2"],
             ["SSG March 19 3", "SSG March 19", "Celestial May 19", "Donation Mar 20", "Bank June 21"],
             ["Bank July 21", "Donation Comp Aug 21", "Bank Sep 21", "Gone Fishing Donation", "Aetherversary Donation"],
-            ["Spring Clean-Out", "Meteorite Donation", "Starfall 2024 Donation"]
+            ["Spring Clean-Out", "Meteorite Donation", "Starfall 2024 Donation", "Goin Ham Donation"]
         ]
     },
     {
@@ -116,7 +118,7 @@ badge_layout = [
             ["Meteorite Nature Levels", "IvW Boarding Arcane", "IvW Boarding Earth", "IvW Boarding Fire"],
             ["IvW Boarding Ice", "IvW Boarding Light", "IvW Boarding Lightning", "IvW Boarding Nature"],
             ["IvW Boarding Plague", "IvW Boarding Shadow", "IvW Boarding Water", "IvW Boarding Wind"],
-            ["IvW Mercing", "IvW Saturday", "IvW 25 Levels", "IvW 50 Levels"]
+            ["IvW Mercing", "IvW Saturday", "IvW 25 Levels", "IvW 50 Levels", "RoR 24 Sat"]
         ]
     }
 ]
