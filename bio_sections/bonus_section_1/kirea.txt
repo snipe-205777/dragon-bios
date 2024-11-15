@@ -2,21 +2,20 @@
 
 Genes
 [indent]
-Pri - Fade x1
-Sec - Bee x1, Spinner x1
-Tert - Glimmer x1, Glowtail x1
+Pri - Criculaworm (Everlux) x1, Fade x1, Pharaoh x1
+Sec - Bee x1, Coil (Everlux) x1, Freckle x1, Spinner x1
+Tert - Glimmer x1, Glowtail x1, Sunsail (Everlux) x1
 [/indent]
 
 Familiars
 [indent]
-Coli boss - Stone Borer
 Minifest - Harvest Waxwing, Waxwing Cultivator
 [/indent]
 
 Vistas
 [indent]
-Breed - Aberration, Aether, Coatl, Gaoler, Guardian, Obelisk, Spiral, Undertide
-Coliseum - Forbidden Portal, Silk-Strewn, Talonok
+Breed - Aberration, Aether, Coatl, Everlux, Gaoler, Guardian, Obelisk, Spiral, Undertide
+Coliseum - Forbidden Portal, Silk-Strewn Wreckage, Talonok
 Gem MP - Armory, Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Corgi Sploot, Gem Hoarder, Lantern Forest, Night Sky, Shoreline Serenity
 Marva - An Eye For Buttons, Marva's Magic, The Finest Treasure
 Night of the Nocturne - Snarling Mimic
