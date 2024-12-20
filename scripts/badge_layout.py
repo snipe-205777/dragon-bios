@@ -32,7 +32,7 @@ badge_layout = [
             ["AvL Prelevel Water", "AvL Prelevel Shadow", "AvL Prelevel Ice", "AvL Prelevel Lightning", "AvL Prelevel Light"],
             ["AvL Prelevel Nature", "AvL Prelevel Plague", "AvL Prelevel Rainbow", "Gone Fishing", "Astrolodome Food Festival"],
             ["Aetherversary", "Solar Eclipse", "Sprite Quests Jul 24", "Meteorite Mayhem", "Starfall 2024"],
-            ["Goin Ham"]
+            ["Goin Ham", "Spa Retreat"]
         ]
     },
     {
@@ -53,7 +53,7 @@ badge_layout = [
             ["September 18 Bank Goal", "October 18 Bank Goal", "IvL Donation", "200kt SvF", "SSG March 19 2"],
             ["SSG March 19 3", "SSG March 19", "Celestial May 19", "Donation Mar 20", "Bank June 21"],
             ["Bank July 21", "Donation Comp Aug 21", "Bank Sep 21", "Gone Fishing Donation", "Aetherversary Donation"],
-            ["Spring Clean-Out", "Meteorite Donation", "Starfall 2024 Donation", "Goin Ham Donation"]
+            ["Spring Clean-Out", "Meteorite Donation", "Starfall 2024 Donation", "Goin Ham Donation", "Spa Retreat Donation"]
         ]
     },
     {
