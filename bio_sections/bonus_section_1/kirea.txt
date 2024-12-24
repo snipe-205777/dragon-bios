@@ -1,36 +1,32 @@
-[center]Currently saving for: ???[/center]
-
 Genes
 [indent]
-Pri - Criculaworm (Everlux) x1, Fade x1, Pharaoh x1
-Sec - Bee x1, Coil (Everlux) x1, Freckle x1, Spinner x1
-Tert - Glimmer x1, Glowtail x1, Sunsail (Everlux) x1
+Pri - Fade x1, Pharaoh x1
+Sec - Bee x1, Freckle x1, Spinner x1
+Tert - Glimmer x1, Glowtail x1
 [/indent]
 
 Familiars
 [indent]
-Minifest - Harvest Waxwing, Waxwing Cultivator
+None right now :)
 [/indent]
 
 Vistas
 [indent]
-Breed - Aberration, Aether, Coatl, Everlux, Gaoler, Guardian, Obelisk, Spiral, Undertide
-Coliseum - Forbidden Portal, Silk-Strewn Wreckage, Talonok
-Gem MP - Armory, Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Corgi Sploot, Gem Hoarder, Lantern Forest, Night Sky, Shoreline Serenity
-Marva - An Eye For Buttons, Marva's Magic, The Finest Treasure
-Night of the Nocturne - Snarling Mimic
-Ribbons - Asexual, Demigirl, Demisexual, Gay, Genderfluid, Lesbian, Nonbinary, Progress, Rainbow
+Breed - Aether, Coatl, Gaoler, Guardian, Obelisk, Spiral
+Coliseum - Forbidden Portal, Silk-Strewn Wreckage
+Gem MP - Armory, Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Corgi Sploot, Gem Hoarder, Night Sky, Shoreline Serenity
+Marva - An Eye For Buttons, The Finest Treasure
+Ribbons - Demigirl, Demisexual, Gay, Genderfluid, Lesbian, Nonbinary, Progress, Rainbow
 [/indent]
 
 Den Items
 [indent]
-Bearded Shrieker, Catercroak, Hydra
+Vista: Springswarm, Vista: Drakeharvest, Breed Change: Obelisk, Breed Change: Everlux, Hydra
 [/indent]
 
 Eggs
 Random apparel - newer apparel would be good, I mostly only buy fest apparel now
 [gamedb item=28776]
-[gamedb item=47438]/[gamedb item=47437]
 Harvest apparel
 
 Art - [url=https://www1.flightrising.com/dragon/79556756]Foramen[/url], [url=https://www1.flightrising.com/dragon/22617663]Coronium[/url], [url=https://www1.flightrising.com/dragon/22617563]Loreley[/url], [url=https://www1.flightrising.com/dragon/258821]Kieran[/url], [url=https://www1.flightrising.com/dragon/32651287]Kevin (OG)[/url], [url=https://www1.flightrising.com/dragon/36634187]Nasnan[/url], [url=https://www1.flightrising.com/dragon/19465093]Poddlewise[/url], [url=https://www1.flightrising.com/dragon/29256577]Borvo[/url], [url=https://www1.flightrising.com/dragon/17411624]Nefas[/url], [url=https://www1.flightrising.com/dragon/24362252]Cabbage[/url], [url=https://www1.flightrising.com/dragon/47145093]Dagian[/url], [url=https://www1.flightrising.com/dragon/53038543]Jay[/url], [url=https://www1.flightrising.com/dragon/54852230]H&S[/url], [url=https://www1.flightrising.com/dragon/24209424]Fen[/url], [url=https://www1.flightrising.com/dragon/59589851]Eryn[/url], [url=https://www1.flightrising.com/dragon/82224599]Ash[/url], [url=https://www1.flightrising.com/dragon/76018015]Ireo[/url]
