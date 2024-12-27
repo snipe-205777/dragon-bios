@@ -48,14 +48,14 @@ badge_layout = [
         "header": "Bonl",
         "host": "Concerto",
         "badges": [
+            ["Bank Donation Total", "Bank Donation Weeks"],
             ["FvW Donation", "House Cup Donation", "FvL Donation", "AvS Donation Comp", "FGB Stretch Goal 1"],
-            ["FGB Stretch Goal 2", "FGB Stretch Goal 3", "Celestial Donation", "Bank Donation Total", "Bank Donation Weeks"],
-            ["September 18 Bank Goal", "October 18 Bank Goal", "IvL Donation", "200kt SvF", "SSG March 19 2"],
-            ["SSG March 19 3", "SSG March 19", "Celestial May 19", "Donation Mar 20", "Bank June 21"],
-            ["Bank July 21", "Donation Comp Aug 21", "Bank Sep 21", "HC Donation Comp", "Gone Fishing Donation"],
-            ["Aetherversary Donation", "Spring Clean-Out", "Meteorite Donation", "Starfall 2024 Donation", "FGB Sep 24"],
-            ["FGB Sep 24 Stretch", "Goin Ham Donation", "FGB Oct 24", "FGB Oct 24 Stretch", "Spa Retreat Donation"],
-            ["FGB Nov 24", "FGB Nov 24 Stretch"]
+            ["FGB Stretch Goal 2", "FGB Stretch Goal 3", "Celestial Donation", "September 18 Bank Goal", "October 18 Bank Goal"],
+            ["IvL Donation", "200kt SvF", "SSG March 19 2", "SSG March 19 3", "SSG March 19"],
+            ["Celestial May 19", "Donation Mar 20", "Bank June 21", "Bank July 21", "Donation Comp Aug 21"],
+            ["Bank Sep 21", "HC Donation Comp", "Gone Fishing Donation", "Aetherversary Donation", "Spring Clean-Out"],
+            ["Meteorite Donation", "Starfall 2024 Donation", "FGB Sep 24", "FGB Sep 24 Stretch", "Goin Ham Donation"],
+            ["FGB Oct 24", "FGB Oct 24 Stretch", "Spa Retreat Donation", "FGB Nov 24", "FGB Nov 24 Stretch"]
         ]
     },
     {
