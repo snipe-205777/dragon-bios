@@ -1,15 +1,21 @@
+import json
 from utils.bio_blocks.coloured_text import coloured_text
-from utils.resources.flags import flag_banners
+
 
 def create_flags(dragon):
     flags = []
-    for i in range(1,5):
-        flag = dragon[f"flag_{i}"]
-        if flag:
-            image = flag_banners[flag]
-            flags.append(f"[img alt='{flag} flag']{image}[/img]".replace(" alternative", ""))
+
+    with open("utils/resources/flags.json", mode="r", encoding="utf-8") as file:
+        flag_banners = json.load(file)
+
+        for i in range(1,5):
+            flag = dragon[f"flag_{i}"]
+            if flag:
+                image = flag_banners[flag]
+                flags.append(f"[img alt='{flag} flag']{image}[/img]".replace(" alternative", ""))
 
     return "".join(flags)
+
 
 def create_header(dragon):
     text_colour = coloured_text(dragon)

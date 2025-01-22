@@ -1,4 +1,5 @@
-from utils.resources.text_colour import text_colour
+import json
+
 
 def coloured_text(dragon):
     if dragon["divider_type"]:
@@ -6,4 +7,6 @@ def coloured_text(dragon):
     else:
         divider_type = "Swirls"
 
-    return text_colour[divider_type][dragon["flight"]]
+    with open("utils/resources/text_colour.json", mode="r", encoding="utf-8") as file:
+        text_colour = json.load(file)
+        return text_colour[divider_type][dragon["flight"]]

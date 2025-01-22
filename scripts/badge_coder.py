@@ -1,5 +1,5 @@
+import json
 import pandas as pd
-from badge_layout import badge_layout
 
 
 def code_badge(badge_name):
@@ -48,11 +48,14 @@ def compile_badges():
         "sections": []
     }
 
-    for section in badge_layout:
-        if section["host"] == "Concerto":
-            concerto["sections"].append(code_section(section))
-        elif section ["host"] == "Lsoko":
-            lsoko["sections"].append(code_section(section))
+    with open("scripts/badge_layout.json", mode="r", encoding="utf-8") as file:
+        badge_layout = json.load(file)
+
+        for section in badge_layout:
+            if section["host"] == "Concerto":
+                concerto["sections"].append(code_section(section))
+            elif section ["host"] == "Lsoko":
+                lsoko["sections"].append(code_section(section))
 
     for host in concerto, lsoko:
         with open(host["filename"], "w", encoding="utf-8") as file:

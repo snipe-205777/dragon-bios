@@ -1,4 +1,4 @@
-flag_banners = {
+{
     "Aceflux": "https://i.imgur.com/jizKnk2.png",
     "Agender": "https://i.imgur.com/ym3yMRW.png",
     "Alloace": "https://i.imgur.com/iUFFbN9.png",
@@ -47,5 +47,5 @@ flag_banners = {
     "Surgender": "https://i.imgur.com/X5vm20R.png",
     "Transfem": "https://i.imgur.com/RHw6AKV.png",
     "Transgender": "https://i.imgur.com/nULiq5L.png",
-    "Transmasc": "https://i.imgur.com/rGj7cpd.png",
+    "Transmasc": "https://i.imgur.com/rGj7cpd.png"
 }

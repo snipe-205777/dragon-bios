@@ -1,10 +1,14 @@
+import json
 from os.path import exists
-from utils.resources.flight_icons import flight_icons
+
 
 def create_side_icons(dragon):
     icon_type = dragon["icon_type"] if dragon["icon_type"] else "Runes"
-    icon = flight_icons[icon_type][dragon["flight"]]
-    flight_icon = f"[img alt='{dragon['flight']} icon']{icon}[/img]"
+
+    with open("utils/resources/flight_icons.json", mode="r", encoding="utf-8") as file:
+        flight_icons = json.load(file)
+        icon = flight_icons[icon_type][dragon["flight"]]
+        flight_icon = f"[img alt='{dragon['flight']} icon']{icon}[/img]"
 
     icons = [flight_icon]
 
@@ -18,6 +22,7 @@ def create_side_icons(dragon):
 
     return "\n\n".join(icons)
 
+
 def get_bio_text(dragon):
     filename = f"bio_sections/main_content/{dragon['subgroup']}/{dragon['name'].lower().replace(' ', '_')}.txt"
 
@@ -28,6 +33,7 @@ def get_bio_text(dragon):
         with open(filename, "r", encoding="utf8") as bio_text:
             return bio_text.read()
     return ""
+
 
 def main_content(dragon):
     side_icons = create_side_icons(dragon)

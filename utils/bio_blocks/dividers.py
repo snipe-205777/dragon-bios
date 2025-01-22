@@ -1,4 +1,5 @@
-from utils.resources.dividers import section_dividers
+import json
+
 
 def dividers(dragon):
     if dragon["divider_type"]:
@@ -6,5 +7,8 @@ def dividers(dragon):
     else:
         divider_type = "Swirls"
 
-    divider = section_dividers[divider_type][dragon["flight"]]
-    return f"[center][img alt='divider']{divider}[/img][/center]"
+    with open("utils/resources/dividers.json", mode="r", encoding="utf-8") as file:
+        section_dividers = json.load(file)
+
+        divider = section_dividers[divider_type][dragon["flight"]]
+        return f"[center][img alt='divider']{divider}[/img][/center]"
