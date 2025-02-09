@@ -11,9 +11,9 @@
 [center][color=#f5e646][size=4]To Do List[/size][/color][/center]
 
 Level to 25: Pawn, banes, UT female, brown noc
-Names: blue WC, H&S, banes, obelisk, Scatter, tun, pearl, tree, frog, ny, stone, seasons, UT female, brown noc
+Names: blue WC, banes, obelisk, Scatter, tun, pearl, tree, frog, ny, stone, seasons, UT female, brown noc
 Rename?: Kieran, Lsoko, Derecho, Pawn, Orchestia
-Lore: Kieran, Lsoko, Vegvisir, Fen, Symphony, Serenade, Concerto, blue WC, Jay, H&S, banes, veils, Pawn, blue, Derecho, Scatter, Orchestia, seasons, Cabbage, Boreas, Dagian, pearl, tree, Ertis, frog, ny, Aerglo, stone
+Lore: Kieran, Lsoko, Vegvisir, Fen, Symphony, Serenade, Concerto, blue WC, Jay, Tolo, banes, veils, Pawn, blue, Derecho, Scatter, Orchestia, seasons, Cabbage, Boreas, Dagian, pearl, tree, Ertis, frog, ny, Aerglo, stone
 Keep the yellow noc?
 Also decide on denned g1s
 And rovers
