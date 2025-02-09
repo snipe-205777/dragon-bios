@@ -16,7 +16,7 @@ from utils.bio_warnings import bio_warnings
 
 with warnings.catch_warnings():
     warnings.filterwarnings("ignore", category=UserWarning)
-    dragon_data = pd.read_excel("bio_info.xlsx", sheet_name="dragons", header=0)
+    dragon_data = pd.read_csv("bio_info.csv", skipinitialspace=True)
 
 dragon_data = dragon_data.fillna("")
 dragon_data["subgroup"] = dragon_data.apply(lambda row: row["subgroup"].lower().replace(" ", "_"), axis = 1)
