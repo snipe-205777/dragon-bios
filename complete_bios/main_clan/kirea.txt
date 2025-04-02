@@ -22,9 +22,19 @@ Usually.
 
 Genes
 [indent]
-Pri - Fade x1, Pharaoh x1
-Sec - Bee x1, Freckle x1, Spinner x1
-Tert - Glimmer x1, Glowtail x1
+[gamedb item=32412]x1
+[gamedb item=43081]x1
+
+[gamedb item=24311]x1
+[gamedb item=7642]x2
+[gamedb item=784]x1
+
+[gamedb item=11810]x1
+[gamedb item=34374]x1
+
+[gamedb item=26775]x2
+
+[gamedb item=58071]x1
 [/indent]
 
 Familiars
