@@ -1,6 +1,5 @@
 Genes
 [indent]
-[gamedb item=32412]x1
 [gamedb item=43081]x1
 
 [gamedb item=24311]x1
@@ -9,6 +8,9 @@ Genes
 
 [gamedb item=11810]x1
 [gamedb item=34374]x1
+[gamedb item=49569]x1
+
+[gamedb item=49359]x1
 
 [gamedb item=26775]x2
 
@@ -22,7 +24,7 @@ None right now :)
 
 Vistas
 [indent]
-Breed - Aether, Coatl, Obelisk, Spiral
+Breed - Aether, Cirrus, Coatl, Obelisk, Spiral
 Coliseum - Forbidden Portal, Silk-Strewn Wreckage
 Gem MP - Armory, Axolotl, Black Rose, Butterflies, Corgi Sploot, Gem Hoarder, Night Sky, Shoreline Serenity
 Ribbons - Demigirl, Demisexual, Gay, Lesbian, Progress, Rainbow
@@ -30,7 +32,15 @@ Ribbons - Demigirl, Demisexual, Gay, Lesbian, Progress, Rainbow
 
 Den Items
 [indent]
-Vista: Drakeharvest, Hydra
+Vista: Drakeharvest
+[/indent]
+
+Give [url=https://www1.flightrising.com/dragon/100261471]The Masked One[/url] a makeover
+[indent]
+Suggest a new name
+Suggest new pronouns
+Any modern gene or breed scroll
+Any mask apparel
 [/indent]
 
 Eggs
