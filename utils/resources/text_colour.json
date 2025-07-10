@@ -1,16 +1,16 @@
 {
     "Swirls": {
-        "Earth": "#7e4922",
-        "Fire": "#ea8000",
-        "Wind": "#9eda48",
-        "Water": "#2f4cef",
+        "Earth": "#7c4415",
+        "Fire": "#a65d01",
+        "Wind": "#4d7c00",
+        "Water": "#0039e3",
         "Shadow": "#570080",
-        "Ice": "#98c6df",
-        "Lightning": "#21e3e1",
-        "Light": "#f5e646",
-        "Nature": "#3ead28",
-        "Plague": "#ba2a0d",
-        "Arcane": "#ff3cda"
+        "Ice": "#00799a",
+        "Lightning": "#007c7b",
+        "Light": "#171500",
+        "Nature": "#166000",
+        "Plague": "#c22701",
+        "Arcane": "#cd00ad"
     },
     "Ammoth": {
         "Earth": "#7a4620",
