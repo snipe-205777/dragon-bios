@@ -78,6 +78,6 @@ if __name__ == "__main__":
             dragon = dragon_data.loc[row]
             create_bio(dragon)
     else:
-        for i in range(dragon_data.shape[0] - 1):
+        for i in range(dragon_data.shape[0]):
             dragon = dragon_data.loc[i]
             create_bio(dragon)
