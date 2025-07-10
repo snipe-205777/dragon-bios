@@ -1,4 +1,4 @@
-[columns][img alt='transparent placeholder']https://i.imgur.com/4bD1JYI.png[/img][nextcol][center][color=#f5e646][font=gabriola][size=7][b]Coronium[/b][/size]
+[columns][img alt='transparent placeholder']https://i.imgur.com/4bD1JYI.png[/img][nextcol][center][color=#171500][font=gabriola][size=7][b]Coronium[/b][/size]
 [size=6]Researcher[/size][/font][/color]
 [img alt='transparent placeholder']https://i.imgur.com/HEifPwj.png[/img][/center][nextcol][right][br][img alt='transparent placeholder']https://i.imgur.com/4bD1JYI.png[/img][/right][/columns]
 [center][img alt='divider']https://66.media.tumblr.com/e58e2ece913e9b9dfc882a7c4ed92290/tumblr_inline_o25g26iyqp1r3lvtf_1280.png[/img][/center]
@@ -24,7 +24,7 @@ Starting: Splash/Coal/Sunshine
 05/08/16: Obsidian/Berry/Wine
 28/10/16: Sand/Gold/Ruby
 [center][img alt='divider']https://66.media.tumblr.com/e58e2ece913e9b9dfc882a7c4ed92290/tumblr_inline_o25g26iyqp1r3lvtf_1280.png[/img][/center]
-[center][color=#f5e646][size=5]Art[/size][/color]
+[center][color=#171500][size=5]Art[/size][/color]
 [size=1]All pieces link to artist[/size]
 
 [url=https://www.deviantart.com/zaphyrae/art/Coronium-666452645][img alt='A bust of Coronium with his tail looping from behind him']http://i.imgur.com/T0WxVQk.png[/img][/url][/center]
