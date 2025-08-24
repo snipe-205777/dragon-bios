@@ -64,8 +64,9 @@
             ["FGB Dec 24", "FGB Dec 24 Stretch", "Moonlit Mayhem Donation", "Phantasia Jan 25", "Phantasia Jan 25 Elim"],
             ["FGB Jan 25", "FGB Jan 25 Stretch", "Double Day Disaster Donation", "FGB Feb 25", "FGB Feb 25 Stretch"],
             ["Starglobe Starvaganza Donation", "FGB Mar 25", "FGB Mar 25 Stretch", "Cirque Du Sornieth Donation"],
-            ["Flower Power Donation", "FGB Apr 25", "FGB Apr 25 Stretch","Missing Help Donation", "FGB May 25"],
-            ["FGB May 25 Stretch", "FGB Jun 25", "Sun Satellite Donation", "FGB Jul 25"]
+            ["Flower Power Donation", "Stellar Delights 1", "Stellar Delights 2", "Stellar Delights 3", "Stellar Delights 4"],
+            ["FGB Apr 25", "FGB Apr 25 Stretch","Missing Help Donation", "FGB May 25", "FGB May 25 Stretch"],
+            ["FGB Jun 25", "Sun Satellite Donation", "FGB Jul 25"]
         ]
     },
     {
@@ -130,7 +131,11 @@
             ["Meteorite Nature Levels", "IvW Boarding Arcane", "IvW Boarding Earth", "IvW Boarding Fire"],
             ["IvW Boarding Ice", "IvW Boarding Light", "IvW Boarding Lightning", "IvW Boarding Nature"],
             ["IvW Boarding Plague", "IvW Boarding Shadow", "IvW Boarding Water", "IvW Boarding Wind"],
-            ["IvW Mercing", "IvW Saturday", "IvW 25 Levels", "IvW 50 Levels", "RoR 24 Sat"]
+            ["IvW Mercing", "IvW Saturday", "IvW 25 Levels", "IvW 50 Levels", "RoR 24 Sat"],
+            ["Trickmurk 25 Sat", "Trickmurk 25 Levels", "Domnt Sun", "Domnt Mon", "Domnt Tue"],
+            ["Domnt Thu", "Domnt Sat", "Domnt Dragons", "TCC 25 ML Participation", "TCC 25 ML Nonsensical"],
+            ["TCC 25 ML Mon", "TCC 25 ML Tue", "TCC 25 ML Wed", "TCC 25 ML Thu"],
+            ["TCC 25 ML Fri", "TCC 25 ML Sat", "TCC 25 ML Sun"]
         ]
     }
 ]
