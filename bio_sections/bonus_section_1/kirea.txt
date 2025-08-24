@@ -24,10 +24,10 @@ None right now :)
 
 Vistas
 [indent]
-Breed - Aether, Cirrus, Coatl, Obelisk, Spiral
-Coliseum - Forbidden Portal, Silk-Strewn Wreckage
+Breed - Cirrus, Coatl, Obelisk, Spiral
+Coliseum - Silk-Strewn Wreckage
 Gem MP - Armory, Axolotl, Black Rose, Butterflies, Corgi Sploot, Gem Hoarder, Night Sky, Shoreline Serenity
-Ribbons - Demigirl, Demisexual, Gay, Lesbian, Progress, Rainbow
+Ribbons - Demigirl, Lesbian, Rainbow
 [/indent]
 
 Den Items
