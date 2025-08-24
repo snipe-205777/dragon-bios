@@ -13,6 +13,7 @@ from utils.bio_blocks.header import create_header
 from utils.bio_blocks.main_content import main_content
 from utils.bio_blocks.relationships import relationships_block
 from utils.bio_warnings import bio_warnings
+from scripts.badge_coder import compile_badges
 
 with warnings.catch_warnings():
     warnings.filterwarnings("ignore", category=UserWarning)
@@ -73,10 +74,15 @@ def create_bio(dragon_name):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("-d", "--dragon", help="the dragon to create a bio for")
+    parser.add_argument("-b", "--badges", help="Update badge collections", action="store_true")
+    parser.add_argument("-d", "--dragon", help="The dragon to create a bio for. Ignored if badges flag is present")
     args = parser.parse_args()
 
-    if args.dragon:
+    if args.badges:
+        compile_badges()
+        for dragon in ["Concerto", "Lsoko"]:
+            create_bio(dragon)
+    elif args.dragon:
         create_bio(args.dragon)
     else:
         for dragon in dragon_data.index.array:
