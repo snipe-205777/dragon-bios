@@ -19,9 +19,16 @@ with warnings.catch_warnings():
     dragon_data = pd.read_csv("bio_info.csv", skipinitialspace=True)
 
 dragon_data = dragon_data.fillna("")
+dragon_data.index = dragon_data.name
 dragon_data["subgroup"] = dragon_data.apply(lambda row: row["subgroup"].lower().replace(" ", "_"), axis = 1)
 
-def create_bio(dragon):
+def create_bio(dragon_name):
+    try:
+        dragon = dragon_data.loc[dragon_name]
+    except KeyError as e:
+        print(f"No dragon found with name \"{dragon_name}\". This argument is case sensitive.")
+        return
+
     divider = dividers(dragon)
  
     header = create_header(dragon)
@@ -70,14 +77,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     if args.dragon:
-        match_name = dragon_data[dragon_data["name"] == args.dragon]
-        if match_name.empty:
-            raise ValueError("No dragon found with this name. This argument is case-sensitive")
-        else:
-            row = match_name.index[0]
-            dragon = dragon_data.loc[row]
-            create_bio(dragon)
+        create_bio(args.dragon)
     else:
-        for i in range(dragon_data.shape[0]):
-            dragon = dragon_data.loc[i]
+        for dragon in dragon_data.index.array:
             create_bio(dragon)
