@@ -26,13 +26,10 @@ Genes
 
 [gamedb item=24311]x1
 [gamedb item=7642]x2
-[gamedb item=784]x1
 
 [gamedb item=11810]x1
 [gamedb item=34374]x1
 [gamedb item=49569]x1
-
-[gamedb item=49359]x1
 
 [gamedb item=26775]x2
 
@@ -54,7 +51,7 @@ Ribbons - Demigirl, Lesbian, Rainbow
 
 Den Items
 [indent]
-Vista: Drakeharvest
+None right now :)
 [/indent]
 
 Give [url=https://www1.flightrising.com/dragon/100261471]The Masked One[/url] a makeover
