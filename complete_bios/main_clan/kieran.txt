@@ -18,13 +18,11 @@
 
 [emoji=eternal youth size=1] Breeding
 
-[gamedb achievement=172] (~Aug)
-[gamedb achievement=173]
+[gamedb achievement=173] (~Jan 2027)
 [gamedb achievement=174]
 [gamedb achievement=175]
 [gamedb achievement=176]
-[gamedb achievement=182] (~Aug)
-[gamedb achievement=183]
+[gamedb achievement=183] (~Jan 2027)
 [gamedb achievement=184]
 [gamedb achievement=185]
 [gamedb achievement=186]
