@@ -21,7 +21,7 @@ def create_header(dragon):
     text_colour = coloured_text(dragon)
     flags = create_flags(dragon)
 
-    header = f"""[columns][img alt='transparent placeholder']https://i.imgur.com/4bD1JYI.png[/img][nextcol][center][color={text_colour}][font=gabriola][size=7][b]{dragon["name"]}[/b][/size]
+    header = f"""[columns][img alt='transparent placeholder']https://i.postimg.cc/Tw5VhGwy/60x1.png[/img][nextcol][center][color={text_colour}][font=gabriola][size=7][b]{dragon["name"]}[/b][/size]
 [size=6]{dragon["subtitle"]}[/size][/font][/color]
-[img alt='transparent placeholder']https://i.imgur.com/HEifPwj.png[/img][/center][nextcol][right]{flags}[br][img alt='transparent placeholder']https://i.imgur.com/4bD1JYI.png[/img][/right][/columns]"""
+[img alt='transparent placeholder']https://i.postimg.cc/W4km1TtJ/472x1.png[/img][/center][nextcol][right]{flags}[br][img alt='transparent placeholder']https://i.postimg.cc/Tw5VhGwy/60x1.png[/img][/right][/columns]"""
     return header

@@ -7,6 +7,6 @@ def bloodsport_victories(dragon):
         else:
             multiwin = ""
 
-        return f"[center][img alt='A bloody crown with the word Victor scrawled on it and Arcane Slack Hunger Games written underneath']http://i.imgur.com/fnF3LPe.png[/img]{multiwin}[/center]"
+        return f"[center][img alt='A bloody crown with the word Victor scrawled on it and Arcane Slack Hunger Games written underneath']https://i.postimg.cc/Cx5cG3rz/bloodsport-crown.png[/img]{multiwin}[/center]"
 
     return ""

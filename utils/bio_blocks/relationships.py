@@ -32,9 +32,9 @@ def relationships_block(dragon):
         relations.append(get_familiar(dragon))
 
     transparent_placeholder = {
-        2: "http://i.imgur.com/Qqo72nd.png",
-        3: "http://i.imgur.com/sKFPb4R.png",
-        4: "http://i.imgur.com/YFy7J4e.png"
+        2: "https://i.postimg.cc/66Msz3P9/2-avatars.png",
+        3: "https://i.postimg.cc/xj6rgCZj/3-avatars.png",
+        4: "https://i.postimg.cc/jqMVv51S/4-avatars.png"
     }
 
     if len(relations) > 1:
