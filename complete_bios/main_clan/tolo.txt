@@ -15,7 +15,7 @@
 [nextcol]
 [emoji=ancient size=1][size=5][font=impact]YouTube[/font][/size]
 [nextcol]
-[color=grey]| Search[/color][img alt='transparent placeholder']https://i.imgur.com/8x4KYXy.png[/img][color=grey]|[/color] [emoji=magnifying glass size=1] [color=grey]|[/color]
+[color=grey]| Search[/color][img alt='transparent placeholder']https://i.postimg.cc/brH4QVkN/150x1.png[/img][color=grey]|[/color] [emoji=magnifying glass size=1] [color=grey]|[/color]
 [nextcol]
 [emoji=paintbrush size=1]
 [nextcol]
@@ -28,14 +28,14 @@
 [emoji=gear size=1]
 [/columns]
 
-[rule][img alt='a simple sketch of a pan boiling on a hob']https://i.imgur.com/UWFT3TD.png[/img]
+[rule][img alt='a simple sketch of a pan boiling on a hob']https://i.postimg.cc/15mghVx4/UWFT3TD.png[/img]
 
 [size=5][b]How to Boil Water Without Putting Everyone in a 100 Mile Radius in Danger[/b][/size]
 
 [columns]
 [color=grey][size=3]107 views[/size][/color]
 [nextcol]
-[img alt='transparent placeholder']https://i.imgur.com/6dyGWHv.png[/img]
+[img alt='transparent placeholder']https://i.postimg.cc/kGFLxYKJ/294x1.png[/img]
 [nextcol]
 [size=2][b][color=grey][emoji=regeneration size=1] 15  [emoji=eliminate size=1] 41  [emoji=trade size=1] SHARE  [emoji=comment size=1] SAVE[/b][/color][/size]
 [/columns]
@@ -47,7 +47,7 @@
 [columns]
 [b]Health & Safety Gal[/b]
 [size=2][color=grey]Published on 18 Ver 2X0V3[/color][/size]
-[img alt='transparent placeholder']https://i.imgur.com/pRnRpGb.png[/img]
+[img alt='transparent placeholder']https://i.postimg.cc/6qLFdbn6/330x1.png[/img]
 [nextcol]
 [quote][color=grey][size=2][b]SUBSCRIBE 49[/b][/size][/color][/quote]
 [nextcol]
@@ -64,10 +64,10 @@ I've noticed some disturbing methods of boiling water among my clanmates, so her
 
 [rule]
 
-[size=5]Up next[/size][img alt='transparent placeholder']https://i.imgur.com/LzUVv4M.png[/img][size=2][color=grey][b]AUTOPLAY[/b][/color][/size] [emoji=glimmer tile size=1]
+[size=5]Up next[/size][img alt='transparent placeholder']https://i.postimg.cc/hvbN9ZTh/480x1.png[/img][size=2][color=grey][b]AUTOPLAY[/b][/color][/size] [emoji=glimmer tile size=1]
 
 [columns]
-[img alt='grey rectangular placeholder']https://i.imgur.com/qnAaOhk.png[/img]
+[img alt='grey rectangular placeholder']https://i.postimg.cc/hP2XS4gz/qnAaOhk.png[/img]
 [nextcol]
 
 [b]How To SAFELY Clean Your Lair[/b]
@@ -77,7 +77,7 @@ Recommended for you[/color]
 [/columns]
 
 [columns]
-[img alt='grey rectangular placeholder']https://i.imgur.com/qnAaOhk.png[/img]
+[img alt='grey rectangular placeholder']https://i.postimg.cc/hP2XS4gz/qnAaOhk.png[/img]
 [nextcol]
 
 [b]SPICE UP your lair decorations with HAUNTED ORBS and SHATTERED GLASS[/b]
@@ -92,11 +92,11 @@ Recommended for you[/color]
 
 [columns]
 [center][img alt='default avatar']https://flightrising.com/rendern/portraits/1/noavatarp.png[/img]
-[img alt='transparent placeholder']https://i.imgur.com/zzoz33c.png[/img]
+[img alt='transparent placeholder']https://i.postimg.cc/RCgrGFY0/75x1.png[/img]
 [nextcol]
 
 [color=grey]Add a public comment...[/color]
-[img alt='transparent placeholder']https://i.imgur.com/ghRNKJl.png[/img]
+[img alt='transparent placeholder']https://i.postimg.cc/ZnFXrspN/532x1.png[/img]
 [rule]
 [/columns]
 
