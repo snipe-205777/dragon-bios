@@ -13,7 +13,9 @@ def bio_warnings(name, bio):
         warning.append(f"{formatted_name}: Missing alt text. Count: {len(matches)}")
 
     if len(bio) > 65535:
-        warning.append(f"{formatted_name}: Over 65535 characters. Count: {len(bio)}")
+        warning.append(f"{formatted_name}: Over character limit. Count: {len(bio)}/65535")
+    elif len(bio) > 60000:
+        warning.append(f"{formatted_name}: Approaching character limit. Count: {len(bio)}/65535")
 
     if len(warning) > 0:
         cprint("             WARNING:", "red")
