@@ -1,4 +1,5 @@
 import json
+import re
 from utils.bio_blocks.coloured_text import coloured_text
 
 
@@ -20,8 +21,9 @@ def create_flags(dragon):
 def create_header(dragon):
     text_colour = coloured_text(dragon)
     flags = create_flags(dragon)
+    name = re.sub(" \d+$", "", dragon["name"])
 
-    header = f"""[columns][img alt='transparent placeholder']https://i.postimg.cc/Tw5VhGwy/60x1.png[/img][nextcol][center][color={text_colour}][font=gabriola][size=7][b]{dragon["name"]}[/b][/size]
+    header = f"""[columns][img alt='transparent placeholder']https://i.postimg.cc/Tw5VhGwy/60x1.png[/img][nextcol][center][color={text_colour}][font=gabriola][size=7][b]{name}[/b][/size]
 [size=6]{dragon["subtitle"]}[/size][/font][/color]
 [img alt='transparent placeholder']https://i.postimg.cc/W4km1TtJ/472x1.png[/img][/center][nextcol][right]{flags}[br][img alt='transparent placeholder']https://i.postimg.cc/Tw5VhGwy/60x1.png[/img][/right][/columns]"""
     return header
