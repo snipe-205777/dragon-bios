@@ -8,7 +8,7 @@
 
 [/columns]
 [center][img alt='divider']https://66.media.tumblr.com/cf06171709abf64fa9577869a65de85e/tumblr_inline_o25fv9fuT31r3lvtf_1280.png[/img][/center]
-[right][font=sans serif][size=1][color=#bbbabf][i][b][url=http://flightrising.com/main.php?p=lair&tab=userpage&id=61019]code: proxima #61019[/url][/b][/i][/color][/size][/font][/right][rule]
+[right][font=sans serif][size=1][color=#bbbabf][i][b][url=https://www1.flightrising.com/clan-profile/61019]code: proxima #61019[/url][/b][/i][/color][/size][/font][/right][rule]
 
 [columns]
 [emoji=comment size=1]
@@ -41,7 +41,7 @@
 [/columns]
 
 [columns]
-[img alt="this dragon's avatar"]http://flightrising.com/rendern/portraits/548523/54852230p.png[/img]
+[img alt="Tolo avatar"]https://www1.flightrising.com/rendern/portraits/548523/54852230p.png[/img]
 [nextcol]
 
 [columns]
@@ -136,7 +136,7 @@ yeah this is cool but i think i'll just stick to using this space rock i found a
 [size=2][b]Hide replies ^[/b][/size]
 
 [columns]
-[img alt="this dragon's avatar"]http://flightrising.com/rendern/portraits/548523/54852230p.png[/img]
+[img alt="Tolo avatar"]https://www1.flightrising.com/rendern/portraits/548523/54852230p.png[/img]
 [nextcol]
 [size=2][b]Health & Safety Gal[/b] [color=grey]5 hours ago[/color][/size]
 
