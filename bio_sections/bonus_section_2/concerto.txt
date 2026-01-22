@@ -295,7 +295,11 @@ Flower Power Apr '25[nextcol][center][size=1][url=https://www1.flightrising.com/
 Missing: HELP! May '25[/columns]
 
 [columns][center][size=1][url=https://www1.flightrising.com/forums/fd9/3425824][img alt="A satellite flies towards a smiling sun wearing sunglasses"]https://i.postimg.cc/RV5g8WX5/IFR-Starseeker-Tier-10-Riggles.png[/img][/url]
-Sun Satellite Jul '25[/columns]
+Sun Satellite Jul '25[nextcol][center][size=1][url=https://www1.flightrising.com/forums/fd9/3435881][img alt="A brightly lit round glass lantern, with black base and crown, a pink moth, a green moth and a crescent moon on a purple, blue night sky with stars"]https://i.postimg.cc/Y0bd5nfw/moth-starfall-IFR-Badges-9.png[/img][/url]
+Magical Moth Migration Sep '25[nextcol][center][size=1][url=https://www1.flightrising.com/forums/fd9/3319879][img alt="A pink male-pose Ridgeback with a lantern hanging off his nose looking at a Rosy Maple Moth"]https://i.postimg.cc/G3P2R65W/tier1.png[/img][/url]
+Magical Moth Migration Sep '25[nextcol][center][size=1][url=https://www1.flightrising.com/forums/fd9/3445874][img alt="A two-tier pink cake with an Arcane symbol on top and the words 'Star Baker' on the side"]https://i.postimg.cc/YhT73SVr/Arcane-Bake-Off-Tier-10.png[/img][/url]
+Arcane Bake-Off Nov '25[nextcol][center][size=1][url=https://www1.flightrising.com/forums/fd9/3453749][img alt="A Spirit of the Arcane in front of part of a long eel"]https://i.ibb.co/N2PHBxTS/IMG-6656.png[/img][/url]
+Sea of Stars Dec '25[/columns]
 
 [size=2][u]Bounty Hunters Guild[/u][/size]
 
@@ -420,7 +424,12 @@ Donated May '25[/columns]
 [columns][center][size=1][url=https://www1.flightrising.com/forums/fd9/3256614][img alt="Silver coin with monochrome roses and grey crystals encircling a pink Arcane symbol. Surrounding text reads 'June '25: Goal Met'"]https://i.postimg.cc/sXbY7x4t/fgb-jun-25.png[/img][/url]
 Donated Jun '25[nextcol][center][size=1][url=https://www1.flightrising.com/forums/fd9/3425824][img alt="A large radar dish pointed towards a sunglasses-wearing sun"]https://i.postimg.cc/nrtqdDZ3/IFR-Starseeker-Donor-Riggles.png[/img][/url]
 Sun Satellite Jul '25[nextcol][center][size=1][url=https://www1.flightrising.com/forums/fd9/3256614][img alt="Silver coin with monochrome lavender and grey crystals encircling a pink Arcane symbol. Surrounding text reads 'July '25: Goal Met'"]https://i.postimg.cc/3RN4Lhw4/fgb-jul-25.png[/img][/url]
-Donated Jul '25[/columns]
+Donated Jul '25[nextcol][center][size=1][url=https://www1.flightrising.com/forums/fd9/3435881][img alt="A large green and yellow moth on a purple-blue night sky with a few stars"]https://i.postimg.cc/mZwp1kx6/moth-starfall-IFR-Badges-11.png[/img][/url]
+Magical Moth Migration Sep '25[nextcol][center][size=1][url=https://www1.flightrising.com/forums/fd9/3453749][img alt="The head of a pink eel wearing a blue sleep mask"]https://i.ibb.co/fzR9GxH8/IMG-6662.png[/img][/url]
+Sea of Stars Dec '25[/columns]
+
+[columns][center][size=1][url=https://www1.flightrising.com/forums/qnc/3453793][img alt="A Spirit of the Arcane within a glass orb"]https://i.postimg.cc/tTmmXv9m/tier3-resize.png[/img][/url]
+Sea of Stars Dec '25[/columns]
 
 [size=2][u]Community[/u][/size]
 
