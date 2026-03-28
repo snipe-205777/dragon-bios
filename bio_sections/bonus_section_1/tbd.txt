@@ -1,0 +1,18 @@
+[columns] [img alt="the Immortal standard rank badge from the Bounty Hunter's Guild"]https://i.postimg.cc/wBz9DrcZ/standard_immortal.png[/img]    [nextcol][img alt="A ham with Batman's face"]https://i.postimg.cc/R0T4dTXD/batham.png[/img]     [nextcol][url=http://www1.flightrising.com/forums/cc/2014085][img alt="quoiromantic heart pixel"]https://68.media.tumblr.com/3babd115d15f1774d315c618b9edfd88/tumblr_inline_ojq6l3Uf451r2ao8y_540.png[/img]
+
+[img alt="bisexual heart pixel"]https://68.media.tumblr.com/260c830cec040c9b35764e01a5a0de0f/tumblr_inline_ojq6kw7euk1r2ao8y_540.png[/img][/url]      [nextcol][img alt="the Starseeker symbol - jagged pink fragments in a rough orb shape on a deep blue background"]https://i.postimg.cc/rp9Mj9fy/starseeker.png[/img]     [nextcol][center][b][url=https://www1.flightrising.com/forums/skin/3292168]Skin Shop[/url][/b]
+[skin=62183][/columns]
+
+[img alt="a mottled pink, blue and purple outline of an upside-down tree and roots on a fuzzy black background"]https://i.postimg.cc/MGBdJsh5/sol-symbol.png[/img]
+
+
+[center][img alt="Blue rocket with Arcane symbol and the words 'Snipe: Goin' Ham Stress Test Oct 2024 MVP: Immortal'"]https://i.postimg.cc/GpRbvfJz/intense_immortal_snipe.png[/img][/center]
+
+Is your post legible?[size=1]
+
+[/size]If the colour of the text does not have sufficient contrast to the background colour it may be very difficult to read, particularly for users with low vision. Plenty of contrast checkers exist online; here's some links for different FR backgrounds:[size=1]
+
+[/size]
+[columns][size=4][url=https://colorcontrast.app/#fg=%23000&bg=%23fff&level=aaa&format=hex&algo=WCAG2&filter=none]Odd-numbered (lighter) forum posts[/url] [color=transparent]...[nextcol]
+[size=4][url=https://colorcontrast.app/#fg=%23000&bg=%23faf9f7&level=aaa&format=hex&algo=WCAG2&filter=none]Even-numbered (darker) forum posts[/url] [color=transparent]...[nextcol]
+[size=4][url=https://colorcontrast.app/#fg=%23000&bg=%23f3f3f3&level=aaa&format=hex&algo=WCAG2&filter=none]Bios[/url][/columns]
