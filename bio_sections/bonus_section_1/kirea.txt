@@ -16,14 +16,15 @@ Genes
 
 Familiars
 [indent]
-None right now :)
+Bamboo Falls - Blazewing Croaker, Cloudrider, Thundercloud Herald
 [/indent]
 
 Vistas
 [indent]
 Breed - Coatl, Obelisk, Spiral
-Gem MP - Armory, Axolotl, Butterflies, Corgi Sploot, Gem Hoarder, Night Sky
-Ribbons - Demigirl, Lesbian, Rainbow
+Coliseum - Bamboo Falls II
+Gem MP - Armory, Butterflies, Corgi Sploot, Gem Hoarder, Night Sky
+Ribbons - Demigirl, Lesbian
 [/indent]
 
 Den Items
