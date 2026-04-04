@@ -69,7 +69,7 @@ def create_bio(dragon_name):
         file.write(bio)
         cprint(f"{' ' * (16-len(dragon['name']))}{dragon['name']}: {message}", color)
 
-    bio_warnings(dragon["name"], bio)
+    bio_warnings(dragon, bio)
 
 
 if __name__ == "__main__":

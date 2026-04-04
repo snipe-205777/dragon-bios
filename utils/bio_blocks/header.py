@@ -8,10 +8,13 @@ def create_flags(dragon):
 
     with open("utils/resources/flags.json", mode="r", encoding="utf-8") as file:
         flag_banners = json.load(file)
+        flags_to_add = dragon["flags"].split(";") if dragon["flags"] != "" else []
 
-        for i in range(1,5):
-            flag = dragon[f"flag_{i}"]
-            if flag:
+        count = min(len(flags_to_add), 4)
+
+        if count > 0:
+            for i in range(0, count):
+                flag = flags_to_add[i].strip()
                 image = flag_banners[flag]
                 flags.append(f"[img alt='{flag} flag']{image}[/img]".replace(" alternative", ""))
 

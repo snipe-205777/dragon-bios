@@ -2,8 +2,8 @@ import re
 from termcolor import cprint
 
 
-def bio_warnings(name, bio):
-    formatted_name = ' ' * (16-len(name)) + name
+def bio_warnings(dragon, bio):
+    formatted_name = " " * (16-len(dragon["name"])) + dragon["name"]
     warning = []
 
     missing_alt = "\[img( alt=\"\")?\]"
@@ -16,6 +16,9 @@ def bio_warnings(name, bio):
         warning.append(f"{formatted_name}: Over character limit. Count: {len(bio)}/65535")
     elif len(bio) > 60000:
         warning.append(f"{formatted_name}: Approaching character limit. Count: {len(bio)}/65535")
+
+    if len(dragon["flags"].split(";")) > 4:
+        warning.append(f"{formatted_name}: Only first four flags are displayed")
 
     if len(warning) > 0:
         cprint("             WARNING:", "red")
