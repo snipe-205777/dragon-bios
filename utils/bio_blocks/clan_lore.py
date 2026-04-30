@@ -1,6 +1,7 @@
 from os.path import exists
 from utils.bio_blocks.coloured_text import coloured_text
 
+
 def clan_lore_block(dragon):
     text_colour = coloured_text(dragon)
     lore_title = dragon["clan_lore_title"]
@@ -19,7 +20,3 @@ def clan_lore_block(dragon):
 {lore_body}{see_also}"""
 
     return ""
-
-
-
-

@@ -1,6 +1,7 @@
 from os.path import exists
 from utils.bio_blocks.coloured_text import coloured_text
 
+
 def bonus_sections(dragon):
     bonuses = {1: "", 2: ""}
     text_colour = coloured_text(dragon)
