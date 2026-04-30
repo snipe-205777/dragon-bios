@@ -1,35 +1,25 @@
 from math import ceil
+import pandas as pd
+
 
 def get_relations(dragon):
-    relations = []
-    for i in range(1,4):
-        if dragon[f"relationship_{i}_name"]:
-            name = dragon[f'relationship_{i}_name']
-            role = dragon[f'relationship_{i}_role']
-            id = int(dragon[f'relationship_{i}_id'])
+    relations = pd.read_csv("relationships.csv", header=0, skipinitialspace=True)
+    relations = relations.fillna("")
+    relations = relations[relations["dragon"] == dragon["name"]]
 
-            portrait = f"[url=https://www1.flightrising.com/dragon/{id}][img alt='{name} avatar']https://www1.flightrising.com/rendern/portraits/{ceil((id+1)/100)}/{id}p.png[/img][/url]"
+    if relations.empty:
+        return []
 
-            relationship = f"""[center]{portrait}
-[size=2]{name}
-[i]{role}[/i][/size]"""
+    relations["url"] = relations.apply(lambda row: f"[url=https://www1.flightrising.com/dragon/{row.relation_id}]", axis=1)
+    relations["portrait_url"] = relations.apply(lambda row: f"https://www1.flightrising.com/rendern/portraits/{ceil((row.relation_id+1)/100)}/{row.relation_id}p.png", axis=1)
+    relations["image"] = relations.apply(lambda row: f"[item={row.familiar_type}]" if row.familiar_type else f"{row.url}[img alt='{row.relation_name} avatar']{row.portrait_url}[/img][/url]", axis=1)
+    relations["code"] = relations.apply(lambda row: f"[center]{row.image}\n[size=2]{row.relation_name}\n[i]{row.relationship}[/i][/size]", axis=1)
 
-            relations.append(relationship)
+    return list(relations["code"])
 
-    return relations
-
-def get_familiar(dragon):
-    if dragon["familiar_type"]:
-        familiar = f"[item={dragon['familiar_type']}]"
-        if dragon["familiar_name"]:
-            familiar = f"[center]{familiar}\n[size=2]{dragon['familiar_name']}[/size]"
-        return familiar
-    return ""
 
 def relationships_block(dragon):
     relations = get_relations(dragon)
-    if get_familiar(dragon):
-        relations.append(get_familiar(dragon))
 
     transparent_placeholder = {
         2: "https://i.postimg.cc/66Msz3P9/2-avatars.png",
