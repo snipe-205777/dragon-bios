@@ -1,13 +1,13 @@
-[columns][img alt='transparent placeholder']https://i.postimg.cc/Tw5VhGwy/60x1.png[/img][nextcol][center][color=#c22701][font=gabriola][size=7][b]Ireo[/b][/size]
+[columns][img alt="transparent placeholder"]https://i.postimg.cc/Tw5VhGwy/60x1.png[/img][nextcol][center][color=#c22701][font=gabriola][size=7][b]Ireo[/b][/size]
 [size=6][/size][/font][/color]
-[img alt='transparent placeholder']https://i.postimg.cc/W4km1TtJ/472x1.png[/img][/center][nextcol][right][br][img alt='transparent placeholder']https://i.postimg.cc/Tw5VhGwy/60x1.png[/img][/right][/columns]
-[center][img alt='divider']https://66.media.tumblr.com/37263db579b435adb142ce4a5e0bb898/tumblr_inline_o25fw8U3KF1r3lvtf_1280.png[/img][/center]
+[img alt="transparent placeholder"]https://i.postimg.cc/W4km1TtJ/472x1.png[/img][/center][nextcol][right][br][img alt="transparent placeholder"]https://i.postimg.cc/Tw5VhGwy/60x1.png[/img][/right][/columns]
+[center][img alt="divider"]https://66.media.tumblr.com/37263db579b435adb142ce4a5e0bb898/tumblr_inline_o25fw8U3KF1r3lvtf_1280.png[/img][/center]
 [columns]
-[img alt='Plague icon']http://68.media.tumblr.com/e732c799add3441944da6ecf4f0dfb7d/tumblr_njoue8Lnqe1scc5nro8_100.png[/img]
+[img alt="Plague icon"]http://68.media.tumblr.com/e732c799add3441944da6ecf4f0dfb7d/tumblr_njoue8Lnqe1scc5nro8_100.png[/img]
 [nextcol]
 
 [/columns]
-[center][img alt='divider']https://66.media.tumblr.com/37263db579b435adb142ce4a5e0bb898/tumblr_inline_o25fw8U3KF1r3lvtf_1280.png[/img][/center]
+[center][img alt="divider"]https://66.media.tumblr.com/37263db579b435adb142ce4a5e0bb898/tumblr_inline_o25fw8U3KF1r3lvtf_1280.png[/img][/center]
 [center][color=#c22701][size=4]Bat Bonanza[/size][/color][/center]
 
 
@@ -92,13 +92,13 @@
 [size=4][/size]
 [i]Tentative[/i]
 [/center][/columns]
-[center][img alt='divider']https://66.media.tumblr.com/37263db579b435adb142ce4a5e0bb898/tumblr_inline_o25fw8U3KF1r3lvtf_1280.png[/img][/center]
+[center][img alt="divider"]https://66.media.tumblr.com/37263db579b435adb142ce4a5e0bb898/tumblr_inline_o25fw8U3KF1r3lvtf_1280.png[/img][/center]
 [center][color=#c22701][size=5]Art[/size][/color]
 [size=1]All pieces link to artist[/size]
 
-[url=https://www1.flightrising.com/forums/adopt/2671503][img alt='A chibi Ireo']https://i.postimg.cc/QdtyvCYD/ireo-128862.png[/img][/url]
-[url=https://www1.flightrising.com/forums/adopt/3337283][img alt='Ireo lying on the ground blepping']https://i.postimg.cc/P592c48n/ireo-527963.png[/img][/url][/center]
-[center][img alt='divider']https://66.media.tumblr.com/37263db579b435adb142ce4a5e0bb898/tumblr_inline_o25fw8U3KF1r3lvtf_1280.png[/img][/center]
+[url=https://www1.flightrising.com/forums/adopt/2671503][img alt="A chibi Ireo"]https://i.postimg.cc/QdtyvCYD/ireo-128862.png[/img][/url]
+[url=https://www1.flightrising.com/forums/adopt/3337283][img alt="Ireo lying on the ground blepping"]https://i.postimg.cc/P592c48n/ireo-527963.png[/img][/url][/center]
+[center][img alt="divider"]https://66.media.tumblr.com/37263db579b435adb142ce4a5e0bb898/tumblr_inline_o25fw8U3KF1r3lvtf_1280.png[/img][/center]
 [right][size=1]Credits:
 Bio template: Snipe 205777
 Lore: Snipe 205777

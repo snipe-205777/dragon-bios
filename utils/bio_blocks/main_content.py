@@ -8,7 +8,7 @@ def create_side_icons(dragon):
     with open("utils/resources/flight_icons.json", mode="r", encoding="utf-8") as file:
         flight_icons = json.load(file)
         icon = flight_icons[icon_type][dragon["flight"]]
-        flight_icon = f"[img alt='{dragon['flight']} icon']{icon}[/img]"
+        flight_icon = f'[img alt="{dragon['flight']} icon"]{icon}[/img]'
 
     icons = [flight_icon]
 
@@ -16,7 +16,7 @@ def create_side_icons(dragon):
         item = dragon[f"item_{i}"]
         if ".png" in item or ".jpg" in item or ".jpeg" in item:
             alt_text, img_code = item.split(", ")
-            icons.append(f"[img alt='{alt_text}']{img_code}[/img]")
+            icons.append(f'[img alt="{alt_text}"]{img_code}[/img]')
         elif item:
             icons.append(f"[item={item}]")
 

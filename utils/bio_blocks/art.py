@@ -8,7 +8,7 @@ def art_block(dragon):
 
     art = art[art["dragon"] == dragon["name"]]
 
-    art["image_code"] = art.apply(lambda row: f"[img alt='{row.alt_text}']{row.image}[/img]", axis = 1)
+    art["image_code"] = art.apply(lambda row: f'[img alt="{row.alt_text}"]{row.image}[/img]', axis = 1)
 
     art["art_code"] = art.apply(
         lambda row: f"[url={row['artist_link']}]{row['image_code']}[/url]" if row["artist_link"] else row["image_code"],

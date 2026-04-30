@@ -11,4 +11,4 @@ def dividers(dragon):
         section_dividers = json.load(file)
 
         divider = section_dividers[divider_type][dragon["flight"]]
-        return f"[center][img alt='divider']{divider}[/img][/center]"
+        return f'[center][img alt="divider"]{divider}[/img][/center]'

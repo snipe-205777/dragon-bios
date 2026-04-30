@@ -16,7 +16,7 @@ def create_flags(dragon):
             for i in range(0, count):
                 flag = flags_to_add[i].strip()
                 image = flag_banners[flag]
-                flags.append(f"[img alt='{flag} flag']{image}[/img]".replace(" alternative", ""))
+                flags.append(f'[img alt="{flag} flag"]{image}[/img]'.replace(" alternative", ""))
 
     return "".join(flags)
 
@@ -26,7 +26,7 @@ def create_header(dragon):
     flags = create_flags(dragon)
     name = re.sub(" \d+$", "", dragon["name"])
 
-    header = f"""[columns][img alt='transparent placeholder']https://i.postimg.cc/Tw5VhGwy/60x1.png[/img][nextcol][center][color={text_colour}][font=gabriola][size=7][b]{name}[/b][/size]
+    header = f"""[columns][img alt=\"transparent placeholder\"]https://i.postimg.cc/Tw5VhGwy/60x1.png[/img][nextcol][center][color={text_colour}][font=gabriola][size=7][b]{name}[/b][/size]
 [size=6]{dragon["subtitle"]}[/size][/font][/color]
-[img alt='transparent placeholder']https://i.postimg.cc/W4km1TtJ/472x1.png[/img][/center][nextcol][right]{flags}[br][img alt='transparent placeholder']https://i.postimg.cc/Tw5VhGwy/60x1.png[/img][/right][/columns]"""
+[img alt=\"transparent placeholder\"]https://i.postimg.cc/W4km1TtJ/472x1.png[/img][/center][nextcol][right]{flags}[br][img alt=\"transparent placeholder\"]https://i.postimg.cc/Tw5VhGwy/60x1.png[/img][/right][/columns]"""
     return header

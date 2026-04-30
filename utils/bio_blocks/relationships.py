@@ -12,7 +12,7 @@ def get_relations(dragon):
 
     relations["url"] = relations.apply(lambda row: f"[url=/dragon/{row.relation_id}]", axis=1)
     relations["portrait_url"] = relations.apply(lambda row: f"/rendern/portraits/{ceil((row.relation_id+1)/100)}/{row.relation_id}p.png", axis=1)
-    relations["image"] = relations.apply(lambda row: f"[item={row.familiar_type}]" if row.familiar_type else f"{row.url}[img alt='{row.relation_name} avatar']{row.portrait_url}[/img][/url]", axis=1)
+    relations["image"] = relations.apply(lambda row: f"[item={row.familiar_type}]" if row.familiar_type else f'{row.url}[img alt="{row.relation_name} avatar"]{row.portrait_url}[/img][/url]', axis=1)
     relations["code"] = relations.apply(lambda row: f"[center]{row.image}\n[size=2]{row.relation_name}\n[i]{row.relationship}[/i][/size]", axis=1)
 
     return list(relations["code"])
@@ -29,7 +29,7 @@ def relationships_block(dragon):
 
     if len(relations) > 1:
         placeholder = transparent_placeholder[len(relations)]
-        return f"[columns][img alt='transparent placeholder']{placeholder}[/img][nextcol]{'[nextcol]'.join(relations)}[/columns]"
+        return f'[columns][img alt="transparent placeholder"]{placeholder}[/img][nextcol]{"[nextcol]".join(relations)}[/columns]'
     elif len(relations) == 1:
         return f"{relations[0]}[/center]"
     else:
