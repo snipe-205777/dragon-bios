@@ -8,11 +8,11 @@
 
 [/columns]
 [center][img alt='divider']https://66.media.tumblr.com/d82f51aa6ef2c4dff67d4e504f0e7706/tumblr_inline_o25fwo3y971r3lvtf_1280.png[/img][/center]
-[columns][img alt='transparent placeholder']https://i.postimg.cc/xj6rgCZj/3-avatars.png[/img][nextcol][center][url=https://www1.flightrising.com/dragon/36097859][img alt='Incaduca avatar']https://www1.flightrising.com/rendern/portraits/360979/36097859p.png[/img][/url]
+[columns][img alt='transparent placeholder']https://i.postimg.cc/xj6rgCZj/3-avatars.png[/img][nextcol][center][url=/dragon/36097859][img alt='Incaduca avatar']/rendern/portraits/360979/36097859p.png[/img][/url]
 [size=2]Incaduca
-[i]Autumn Form[/i][/size][nextcol][center][url=https://www1.flightrising.com/dragon/29446975][img alt='Invictus avatar']https://www1.flightrising.com/rendern/portraits/294470/29446975p.png[/img][/url]
+[i]Autumn Form[/i][/size][nextcol][center][url=/dragon/29446975][img alt='Invictus avatar']/rendern/portraits/294470/29446975p.png[/img][/url]
 [size=2]Invictus
-[i]Winter Form[/i][/size][nextcol][center][url=https://www1.flightrising.com/dragon/31679582][img alt='Inexperta avatar']https://www1.flightrising.com/rendern/portraits/316796/31679582p.png[/img][/url]
+[i]Winter Form[/i][/size][nextcol][center][url=/dragon/31679582][img alt='Inexperta avatar']/rendern/portraits/316796/31679582p.png[/img][/url]
 [size=2]Inexperta
 [i]Spring Form[/i][/size][/columns]
 [center][img alt='divider']https://66.media.tumblr.com/d82f51aa6ef2c4dff67d4e504f0e7706/tumblr_inline_o25fwo3y971r3lvtf_1280.png[/img][/center]

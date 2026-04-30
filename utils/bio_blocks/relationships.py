@@ -10,8 +10,8 @@ def get_relations(dragon):
     if relations.empty:
         return []
 
-    relations["url"] = relations.apply(lambda row: f"[url=https://www1.flightrising.com/dragon/{row.relation_id}]", axis=1)
-    relations["portrait_url"] = relations.apply(lambda row: f"https://www1.flightrising.com/rendern/portraits/{ceil((row.relation_id+1)/100)}/{row.relation_id}p.png", axis=1)
+    relations["url"] = relations.apply(lambda row: f"[url=/dragon/{row.relation_id}]", axis=1)
+    relations["portrait_url"] = relations.apply(lambda row: f"/rendern/portraits/{ceil((row.relation_id+1)/100)}/{row.relation_id}p.png", axis=1)
     relations["image"] = relations.apply(lambda row: f"[item={row.familiar_type}]" if row.familiar_type else f"{row.url}[img alt='{row.relation_name} avatar']{row.portrait_url}[/img][/url]", axis=1)
     relations["code"] = relations.apply(lambda row: f"[center]{row.image}\n[size=2]{row.relation_name}\n[i]{row.relationship}[/i][/size]", axis=1)
 
