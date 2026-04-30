@@ -16,5 +16,6 @@ Hatch: Tomato/bronze/dirt
 [center][img alt="divider"]https://66.media.tumblr.com/37263db579b435adb142ce4a5e0bb898/tumblr_inline_o25fw8U3KF1r3lvtf_1280.png[/img][/center]
 [right][size=1]Credits:
 Bio template: Snipe 205777
+Lore: Snipe 205777
 Flight icon: Luciellia 21094
 Flight dividers: MsBarrows 65352[/size][/right]
