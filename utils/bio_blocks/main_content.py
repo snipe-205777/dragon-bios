@@ -12,13 +12,12 @@ def create_side_icons(dragon):
 
     icons = [flight_icon]
 
-    for i in range(1,4):
-        item = dragon[f"item_{i}"]
+    for item in dragon["items"].split(";"):
         if ".png" in item or ".jpg" in item or ".jpeg" in item:
-            alt_text, img_code = item.split(", ")
-            icons.append(f'[img alt="{alt_text}"]{img_code}[/img]')
+            alt_text, img_code = item.split("|")
+            icons.append(f'[img alt="{alt_text.strip()}"]{img_code.strip()}[/img]')
         elif item:
-            icons.append(f"[item={item}]")
+            icons.append(f"[item={item.strip()}]")
 
     return "\n\n".join(icons)
 
