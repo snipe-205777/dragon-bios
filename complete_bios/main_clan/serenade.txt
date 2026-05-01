@@ -8,11 +8,18 @@
 
 [/columns]
 [center][img alt="divider"]https://66.media.tumblr.com/0fedefe284e730eba9ef7fd934762f1c/tumblr_inline_o25fuv277c1r3lvtf_1280.png[/img][/center]
-[columns][img alt="transparent placeholder"]https://i.postimg.cc/66Msz3P9/2-avatars.png[/img][nextcol][center][url=/dragon/19226776][img alt="Symphony avatar"]/rendern/portraits/192268/19226776p.png[/img][/url]
-[size=2]Symphony
-[i]Mate[/i][/size][nextcol][center][url=/dragon/19377390][img alt="Concerto avatar"]/rendern/portraits/193774/19377390p.png[/img][/url]
-[size=2]Concerto
-[i]Eldest Daughter[/i][/size][/columns]
+[center][color=#cd00ad][size=4]Relationships[/size][/color][/center]
+
+[columns][url=/dragon/19226776][img alt="Symphony avatar"]/rendern/portraits/192268/19226776p.png[/img][/url][nextcol]
+
+Symphony
+[i]Mate[/i]
+[/columns]
+[columns][url=/dragon/19377390][img alt="Concerto avatar"]/rendern/portraits/193774/19377390p.png[/img][/url][nextcol]
+
+Concerto
+[i]Eldest Daughter[/i]
+[/columns]
 [center][img alt="divider"]https://66.media.tumblr.com/0fedefe284e730eba9ef7fd934762f1c/tumblr_inline_o25fuv277c1r3lvtf_1280.png[/img][/center]
 [center][color=#cd00ad][size=4]Coli Challenges[/size][/color][/center]
 

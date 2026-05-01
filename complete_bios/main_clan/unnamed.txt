@@ -8,9 +8,13 @@
 A robot whose sentience has been disputed on the basis that he does not love. The clan doesn't care and treats him as a full citizen. Being a robot does not stop him from being a dragon.
 [/columns]
 [center][img alt="divider"]https://66.media.tumblr.com/515b3114f1bad4a607fb7ea5af2b4531/tumblr_inline_o25fvvo1fd1r3lvtf_1280.png[/img][/center]
-[center][url=/dragon/258821][img alt="Kieran avatar"]/rendern/portraits/2589/258821p.png[/img][/url]
-[size=2]Kieran
-[i]Best Friend[/i][/size][/center]
+[center][color=#007c7b][size=4]Relationships[/size][/color][/center]
+
+[columns][url=/dragon/258821][img alt="Kieran avatar"]/rendern/portraits/2589/258821p.png[/img][/url][nextcol]
+
+Kieran
+[i]Best Friend[/i]
+[/columns]
 [center][img alt="divider"]https://66.media.tumblr.com/515b3114f1bad4a607fb7ea5af2b4531/tumblr_inline_o25fvvo1fd1r3lvtf_1280.png[/img][/center]
 [right][size=1]Credits:
 Bio template: Snipe 205777

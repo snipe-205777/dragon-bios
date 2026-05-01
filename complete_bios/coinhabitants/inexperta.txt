@@ -8,13 +8,23 @@
 
 [/columns]
 [center][img alt="divider"]https://66.media.tumblr.com/52990e451e95982103b483714df09780/tumblr_inline_o25fw2xiwg1r3lvtf_1280.png[/img][/center]
-[columns][img alt="transparent placeholder"]https://i.postimg.cc/xj6rgCZj/3-avatars.png[/img][nextcol][center][url=/dragon/33867433][img alt="Indefessus avatar"]/rendern/portraits/338675/33867433p.png[/img][/url]
-[size=2]Indefessus
-[i]Summer Form[/i][/size][nextcol][center][url=/dragon/36097859][img alt="Incaduca avatar"]/rendern/portraits/360979/36097859p.png[/img][/url]
-[size=2]Incaduca
-[i]Autumn Form[/i][/size][nextcol][center][url=/dragon/29446975][img alt="Invictus avatar"]/rendern/portraits/294470/29446975p.png[/img][/url]
-[size=2]Invictus
-[i]Winter Form[/i][/size][/columns]
+[center][color=#166000][size=4]Relationships[/size][/color][/center]
+
+[columns][url=/dragon/33867433][img alt="Indefessus avatar"]/rendern/portraits/338675/33867433p.png[/img][/url][nextcol]
+
+Indefessus
+[i]Summer Form[/i]
+[/columns]
+[columns][url=/dragon/36097859][img alt="Incaduca avatar"]/rendern/portraits/360979/36097859p.png[/img][/url][nextcol]
+
+Incaduca
+[i]Autumn Form[/i]
+[/columns]
+[columns][url=/dragon/29446975][img alt="Invictus avatar"]/rendern/portraits/294470/29446975p.png[/img][/url][nextcol]
+
+Invictus
+[i]Winter Form[/i]
+[/columns]
 [center][img alt="divider"]https://66.media.tumblr.com/52990e451e95982103b483714df09780/tumblr_inline_o25fw2xiwg1r3lvtf_1280.png[/img][/center]
 [center][img alt="A bloody crown with the word Victor scrawled on it and Arcane Slack Hunger Games written underneath"]https://i.postimg.cc/Cx5cG3rz/bloodsport-crown.png[/img][/center]
 [center][img alt="divider"]https://66.media.tumblr.com/52990e451e95982103b483714df09780/tumblr_inline_o25fw2xiwg1r3lvtf_1280.png[/img][/center]

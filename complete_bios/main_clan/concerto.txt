@@ -8,11 +8,18 @@
 
 [/columns]
 [center][img alt="divider"]https://66.media.tumblr.com/0fedefe284e730eba9ef7fd934762f1c/tumblr_inline_o25fuv277c1r3lvtf_1280.png[/img][/center]
-[columns][img alt="transparent placeholder"]https://i.postimg.cc/66Msz3P9/2-avatars.png[/img][nextcol][center][url=/dragon/19226776][img alt="Symphony avatar"]/rendern/portraits/192268/19226776p.png[/img][/url]
-[size=2]Symphony
-[i]Father[/i][/size][nextcol][center][url=/dragon/19226777][img alt="Serenade avatar"]/rendern/portraits/192268/19226777p.png[/img][/url]
-[size=2]Serenade
-[i]Mother[/i][/size][/columns]
+[center][color=#cd00ad][size=4]Relationships[/size][/color][/center]
+
+[columns][url=/dragon/19226776][img alt="Symphony avatar"]/rendern/portraits/192268/19226776p.png[/img][/url][nextcol]
+
+Symphony
+[i]Father[/i]
+[/columns]
+[columns][url=/dragon/19226777][img alt="Serenade avatar"]/rendern/portraits/192268/19226777p.png[/img][/url][nextcol]
+
+Serenade
+[i]Mother[/i]
+[/columns]
 [center][img alt="divider"]https://66.media.tumblr.com/0fedefe284e730eba9ef7fd934762f1c/tumblr_inline_o25fuv277c1r3lvtf_1280.png[/img][/center]
 [center][color=#cd00ad][size=4]Badges Presented to the Clan[/size][/color][/center]
 

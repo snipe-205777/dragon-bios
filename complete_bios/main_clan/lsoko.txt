@@ -8,9 +8,13 @@
 
 [/columns]
 [center][img alt="divider"]https://66.media.tumblr.com/31b2d4e0dcedff20db557bf5c4ee1db4/tumblr_inline_o25fwvsKVT1r3lvtf_1280.png[/img][/center]
-[center][url=/dragon/258821][img alt="Kieran avatar"]/rendern/portraits/2589/258821p.png[/img][/url]
-[size=2]Kieran
-[i]Girlfriend[/i][/size][/center]
+[center][color=#4d7c00][size=4]Relationships[/size][/color][/center]
+
+[columns][url=/dragon/258821][img alt="Kieran avatar"]/rendern/portraits/2589/258821p.png[/img][/url][nextcol]
+
+Kieran
+[i]Girlfriend[/i]
+[/columns]
 [center][img alt="divider"]https://66.media.tumblr.com/31b2d4e0dcedff20db557bf5c4ee1db4/tumblr_inline_o25fwvsKVT1r3lvtf_1280.png[/img][/center]
 [center][color=#4d7c00][size=4]Badges From Across Sornieth[/size][/color][/center]
 

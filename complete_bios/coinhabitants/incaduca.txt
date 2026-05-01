@@ -8,13 +8,23 @@
 
 [/columns]
 [center][img alt="divider"]https://66.media.tumblr.com/cf06171709abf64fa9577869a65de85e/tumblr_inline_o25fv9fuT31r3lvtf_1280.png[/img][/center]
-[columns][img alt="transparent placeholder"]https://i.postimg.cc/xj6rgCZj/3-avatars.png[/img][nextcol][center][url=/dragon/29446975][img alt="Invictus avatar"]/rendern/portraits/294470/29446975p.png[/img][/url]
-[size=2]Invictus
-[i]Winter Form[/i][/size][nextcol][center][url=/dragon/31679582][img alt="Inexperta avatar"]/rendern/portraits/316796/31679582p.png[/img][/url]
-[size=2]Inexperta
-[i]Spring Form[/i][/size][nextcol][center][url=/dragon/33867433][img alt="Indefessus avatar"]/rendern/portraits/338675/33867433p.png[/img][/url]
-[size=2]Indefessus
-[i]Summer Form[/i][/size][/columns]
+[center][color=#a65d01][size=4]Relationships[/size][/color][/center]
+
+[columns][url=/dragon/29446975][img alt="Invictus avatar"]/rendern/portraits/294470/29446975p.png[/img][/url][nextcol]
+
+Invictus
+[i]Winter Form[/i]
+[/columns]
+[columns][url=/dragon/31679582][img alt="Inexperta avatar"]/rendern/portraits/316796/31679582p.png[/img][/url][nextcol]
+
+Inexperta
+[i]Spring Form[/i]
+[/columns]
+[columns][url=/dragon/33867433][img alt="Indefessus avatar"]/rendern/portraits/338675/33867433p.png[/img][/url][nextcol]
+
+Indefessus
+[i]Summer Form[/i]
+[/columns]
 [center][img alt="divider"]https://66.media.tumblr.com/cf06171709abf64fa9577869a65de85e/tumblr_inline_o25fv9fuT31r3lvtf_1280.png[/img][/center]
 [center][color=#a65d01][size=5]Art[/size][/color]
 [size=1]All pieces link to artist[/size]

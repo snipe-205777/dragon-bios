@@ -8,9 +8,13 @@
 
 [/columns]
 [center][img alt="divider"]https://66.media.tumblr.com/52990e451e95982103b483714df09780/tumblr_inline_o25fw2xiwg1r3lvtf_1280.png[/img][/center]
-[center][url=/dragon/36147907][img alt="Boreas avatar"]/rendern/portraits/361480/36147907p.png[/img][/url]
-[size=2]Boreas
-[i]Best Friend[/i][/size][/center]
+[center][color=#166000][size=4]Relationships[/size][/color][/center]
+
+[columns][url=/dragon/36147907][img alt="Boreas avatar"]/rendern/portraits/361480/36147907p.png[/img][/url][nextcol]
+
+Boreas
+[i]Best Friend[/i]
+[/columns]
 [center][img alt="divider"]https://66.media.tumblr.com/52990e451e95982103b483714df09780/tumblr_inline_o25fw2xiwg1r3lvtf_1280.png[/img][/center]
 [center][color=#166000][size=5]Art[/size][/color]
 [size=1]All pieces link to artist[/size]
