@@ -26,28 +26,17 @@ Gwydion
 
 Genes
 [indent]
-[gamedb item=59819]x1
-[gamedb item=63425]x1
-[gamedb item=43081]x1
-
-[gamedb item=63479]x1
-[gamedb item=24311]x1
-
-[gamedb item=63434]x1
-[gamedb item=11810]x1
-[gamedb item=34374]x1
-
-[gamedb item=26775]x2
+None right now :)
 [/indent]
 
 Familiars
 [indent]
-Bamboo Falls - Blazewing Croaker, Cloudrider, Thundercloud Herald
+Bamboo Falls - Cloudrider, Thundercloud Herald
 [/indent]
 
 Vistas
 [indent]
-Breed - Coatl, Obelisk, Spiral
+Breed - Obelisk, Spiral, Vigil
 Coliseum - Bamboo Falls II
 Gem MP - Armory, Butterflies, Corgi Sploot, Gem Hoarder, Night Sky
 Ribbons - Demigirl, Lesbian
@@ -55,10 +44,11 @@ Ribbons - Demigirl, Lesbian
 
 Den Items
 [indent]
-None right now :)
+Calico Felislug
+Vista: Training Fields II
 [/indent]
 
-Give [url=https://www1.flightrising.com/dragon/100261471]The Masked One[/url] a makeover
+Give [url=/dragon/100261471]The Masked One[/url] a makeover
 [indent]
 Suggest a new name
 Suggest new pronouns
@@ -72,7 +62,7 @@ Random apparel - newer apparel would be good, I mostly only buy fest apparel now
 [gamedb item=39932]
 [gamedb item=45945]
 
-Art - [url=https://www1.flightrising.com/dragon/79556756]Foramen[/url], [url=https://www1.flightrising.com/dragon/22617663]Coronium[/url], [url=https://www1.flightrising.com/dragon/22617563]Loreley[/url], [url=https://www1.flightrising.com/dragon/258821]Kieran[/url], [url=https://www1.flightrising.com/dragon/32651287]Kevin (OG)[/url], [url=https://www1.flightrising.com/dragon/36634187]Nasnan[/url], [url=https://www1.flightrising.com/dragon/19465093]Poddlewise[/url], [url=https://www1.flightrising.com/dragon/29256577]Borvo[/url], [url=https://www1.flightrising.com/dragon/17411624]Nefas[/url], [url=https://www1.flightrising.com/dragon/24362252]Cabbage[/url], [url=https://www1.flightrising.com/dragon/47145093]Dagian[/url], [url=https://www1.flightrising.com/dragon/53038543]Jay[/url], [url=https://www1.flightrising.com/dragon/54852230]Tolo[/url], [url=https://www1.flightrising.com/dragon/24209424]Fen[/url], [url=https://www1.flightrising.com/dragon/59589851]Eryn[/url], [url=https://www1.flightrising.com/dragon/82224599]Ash[/url], [url=https://www1.flightrising.com/dragon/76018015]Ireo[/url]
+Art - [url=/dragon/79556756]Foramen[/url], [url=/dragon/22617663]Coronium[/url], [url=/dragon/22617563]Loreley[/url], [url=/dragon/258821]Kieran[/url], [url=/dragon/32651287]Kevin (OG)[/url], [url=/dragon/36634187]Nasnan[/url], [url=/dragon/19465093]Poddlewise[/url], [url=/dragon/29256577]Borvo[/url], [url=/dragon/17411624]Nefas[/url], [url=/dragon/24362252]Cabbage[/url], [url=/dragon/47145093]Dagian[/url], [url=/dragon/53038543]Jay[/url], [url=/dragon/54852230]Tolo[/url], [url=/dragon/24209424]Fen[/url], [url=/dragon/59589851]Eryn[/url], [url=/dragon/82224599]Ash[/url], [url=/dragon/76018015]Ireo[/url]
 [center][img alt="divider"]https://66.media.tumblr.com/515b3114f1bad4a607fb7ea5af2b4531/tumblr_inline_o25fvvo1fd1r3lvtf_1280.png[/img][/center]
 [center][img alt="A bloody crown with the word Victor scrawled on it and Arcane Slack Hunger Games written underneath"]https://i.postimg.cc/Cx5cG3rz/bloodsport-crown.png[/img][/center]
 [center][img alt="divider"]https://66.media.tumblr.com/515b3114f1bad4a607fb7ea5af2b4531/tumblr_inline_o25fvvo1fd1r3lvtf_1280.png[/img][/center]
