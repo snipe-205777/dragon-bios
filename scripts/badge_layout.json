@@ -163,7 +163,11 @@
             ["Trickmurk 26 Sat", "Plagueball Boneyard", "Marsh Tour 1", "Marsh Tour 2", "Marsh Tour 3"],
             ["Marsh Tour 4", "Marsh Tour 5", "Marsh Tour 6", "Marsh Tour 7", "Marsh Tour 8"],
             ["Marsh Tour 9", "Marsh Tour 10", "Marsh Tour 11", "Marsh Tour 12", "Marsh Tour 13"],
-            ["MistJam 26"]
+            ["MistJam 26", "Life in Sornieth Sun", "Life in Sornieth Mon", "Life in Sornieth Tue", "Life in Sornieth Wed"],
+            ["Life in Sornieth Thu", "Life in Sornieth Fri", "Life in Sornieth Sat", "Rot on Film Sun", "Rot on Film Mon"],
+            ["Rot on Film Tue", "Rot on Film Wed", "Rot on Film Thu", "Rot on Film Fri", "Rot on Film Sat"],
+            ["Haunted House Sun", "Haunted House Mon", "Haunted House Tue", "Haunted House Wed", "Haunted House Thu"],
+            ["Haunted House Fri", "Haunted House Sat"]
         ]
     }
 ]
