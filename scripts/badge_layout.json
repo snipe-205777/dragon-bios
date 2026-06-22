@@ -38,7 +38,7 @@
             ["Starglobe Starvaganza DAD Trainer", "Cirque Du Sornieth 1", "Cirque Du Sornieth 2", "Cirque Du Sornieth 3", "Cirque Du Sornieth 4"],
             ["Cirque Du Sornieth 5", "Cirque Du Sornieth 6", "Cirque Du Sornieth 7", "Flower Power", "Missing Help"],
             ["Sun Satellite", "Starfall 25", "Starfall 25 DAD", "Arcane Bake Off", "Sea of Stars"],
-            ["Mad Tea Party", "Board Games"]
+            ["Mad Tea Party", "Board Games", "Aether Anni 26", "Missing Bytes"]
         ]
     },
     {
@@ -54,7 +54,7 @@
         "header": "Bonl",
         "host": "Concerto",
         "badges": [
-            ["Bank Donation Total", "Bank Donation Weeks"],
+            ["Bank Donation Total", "Bank Donation Weeks", "Spacegames Total"],
             ["FvW Donation", "House Cup Donation", "FvL Donation", "AvS Donation Comp", "FGB Stretch Goal 1"],
             ["FGB Stretch Goal 2", "FGB Stretch Goal 3", "Celestial Donation", "September 18 Bank Goal", "October 18 Bank Goal"],
             ["IvL Donation", "200kt SvF", "SSG March 19 2", "SSG March 19 3", "SSG March 19"],
@@ -69,7 +69,8 @@
             ["FGB Apr 25", "FGB Apr 25 Stretch","Missing Help Donation", "FGB May 25", "FGB May 25 Stretch"],
             ["FGB Jun 25", "Sun Satellite Donation", "FGB Jul 25", "Starfall 25 Donation", "Sea of Stars Donation"],
             ["Starfish Supply Run Arcane", "Mad Tea Party Donation", "Spacegames Jan 26", "Spacegames Feb 26", "Board Games Donation"],
-            ["Spacegames Mar 26"]
+            ["Spacegames Mar 26", "Aether Anni 26 Donation", "Spacegames Apr 26", "Missing Bytes Donation", "Spacegames May 26"],
+            ["Files Not Found Donation", "Spacegames Jun 26"]
         ]
     },
     {
