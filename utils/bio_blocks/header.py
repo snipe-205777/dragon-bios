@@ -26,7 +26,7 @@ def create_header(dragon):
     flags = create_flags(dragon)
     name = re.sub(" \d+$", "", dragon["name"])
 
-    header = f"""[columns][img alt=\"transparent placeholder\"]https://i.postimg.cc/Tw5VhGwy/60x1.png[/img][nextcol][center][color={text_colour}][font=gabriola][size=7][b]{name}[/b][/size]
+    header = f"""[columns][img alt=\"transparent placeholder\"]https://i.ibb.co/Fb88K3X6/60x1.png[/img][nextcol][center][color={text_colour}][font=gabriola][size=7][b]{name}[/b][/size]
 [size=6]{dragon["subtitle"]}[/size][/font][/color]
-[img alt=\"transparent placeholder\"]https://i.postimg.cc/W4km1TtJ/472x1.png[/img][/center][nextcol][right]{flags}[br][img alt=\"transparent placeholder\"]https://i.postimg.cc/Tw5VhGwy/60x1.png[/img][/right][/columns]"""
+[img alt=\"transparent placeholder\"]https://i.ibb.co/JRyg81fL/472x1.png[/img][/center][nextcol][right]{flags}[br][img alt=\"transparent placeholder\"]https://i.ibb.co/Fb88K3X6/60x1.png[/img][/right][/columns]"""
     return header
