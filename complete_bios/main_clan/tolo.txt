@@ -15,7 +15,7 @@
 [nextcol]
 [emoji=ancient size=1][size=5][font=impact]YouTube[/font][/size]
 [nextcol]
-[color=grey]| Search[/color][img alt='transparent placeholder']https://i.postimg.cc/brH4QVkN/150x1.png[/img][color=grey]|[/color] [emoji=magnifying glass size=1] [color=grey]|[/color]
+[color=grey]| Search[/color][img alt="transparent placeholder"]https://i.postimg.cc/brH4QVkN/150x1.png[/img][color=grey]|[/color] [emoji=magnifying glass size=1] [color=grey]|[/color]
 [nextcol]
 [emoji=paintbrush size=1]
 [nextcol]
@@ -28,14 +28,14 @@
 [emoji=gear size=1]
 [/columns]
 
-[rule][img alt='a simple sketch of a pan boiling on a hob']https://i.postimg.cc/15mghVx4/UWFT3TD.png[/img]
+[rule][img alt="a simple sketch of a pan boiling on a hob"]https://i.postimg.cc/15mghVx4/UWFT3TD.png[/img]
 
 [size=5][b]How to Boil Water Without Putting Everyone in a 100 Mile Radius in Danger[/b][/size]
 
 [columns]
 [color=grey][size=3]107 views[/size][/color]
 [nextcol]
-[img alt='transparent placeholder']https://i.postimg.cc/kGFLxYKJ/294x1.png[/img]
+[img alt="transparent placeholder"]https://i.postimg.cc/kGFLxYKJ/294x1.png[/img]
 [nextcol]
 [size=2][b][color=grey][emoji=regeneration size=1] 15  [emoji=eliminate size=1] 41  [emoji=trade size=1] SHARE  [emoji=comment size=1] SAVE[/b][/color][/size]
 [/columns]
@@ -47,7 +47,7 @@
 [columns]
 [b]Health & Safety Gal[/b]
 [size=2][color=grey]Published on 18 Ver 2X0V3[/color][/size]
-[img alt='transparent placeholder']https://i.postimg.cc/6qLFdbn6/330x1.png[/img]
+[img alt="transparent placeholder"]https://i.postimg.cc/6qLFdbn6/330x1.png[/img]
 [nextcol]
 [quote][color=grey][size=2][b]SUBSCRIBE 49[/b][/size][/color][/quote]
 [nextcol]
@@ -64,10 +64,10 @@ I've noticed some disturbing methods of boiling water among my clanmates, so her
 
 [rule]
 
-[size=5]Up next[/size][img alt='transparent placeholder']https://i.postimg.cc/hvbN9ZTh/480x1.png[/img][size=2][color=grey][b]AUTOPLAY[/b][/color][/size] [emoji=glimmer tile size=1]
+[size=5]Up next[/size][img alt="transparent placeholder"]https://i.postimg.cc/hvbN9ZTh/480x1.png[/img][size=2][color=grey][b]AUTOPLAY[/b][/color][/size] [emoji=glimmer tile size=1]
 
 [columns]
-[img alt='grey rectangular placeholder']https://i.postimg.cc/hP2XS4gz/qnAaOhk.png[/img]
+[img alt="grey rectangular placeholder"]https://i.postimg.cc/hP2XS4gz/qnAaOhk.png[/img]
 [nextcol]
 
 [b]How To SAFELY Clean Your Lair[/b]
@@ -77,7 +77,7 @@ Recommended for you[/color]
 [/columns]
 
 [columns]
-[img alt='grey rectangular placeholder']https://i.postimg.cc/hP2XS4gz/qnAaOhk.png[/img]
+[img alt="grey rectangular placeholder"]https://i.postimg.cc/hP2XS4gz/qnAaOhk.png[/img]
 [nextcol]
 
 [b]SPICE UP your lair decorations with HAUNTED ORBS and SHATTERED GLASS[/b]
@@ -91,17 +91,17 @@ Recommended for you[/color]
 [size=5]18 Comments[/size]   [emoji=comment size=1] [size=2][color=grey][b]SORT BY[/b][/color][/size]
 
 [columns]
-[center][img alt='default avatar']https://flightrising.com/rendern/portraits/1/noavatarp.png[/img]
-[img alt='transparent placeholder']https://i.postimg.cc/RCgrGFY0/75x1.png[/img]
+[center][img alt="default avatar"]https://flightrising.com/rendern/portraits/1/noavatarp.png[/img]
+[img alt="transparent placeholder"]https://i.postimg.cc/RCgrGFY0/75x1.png[/img]
 [nextcol]
 
 [color=grey]Add a public comment...[/color]
-[img alt='transparent placeholder']https://i.postimg.cc/ZnFXrspN/532x1.png[/img]
+[img alt="transparent placeholder"]https://i.postimg.cc/ZnFXrspN/532x1.png[/img]
 [rule]
 [/columns]
 
 [columns]
-[img alt='Pergamon avatar']https://www1.flightrising.com/rendern/portraits/275438/27543724p.png[/img]
+[img alt="Pergamon avatar"]https://www1.flightrising.com/rendern/portraits/275438/27543724p.png[/img]
 [nextcol]
 [size=2][b]Pergamon Lacunarum[/b] [color=grey]4 hours ago[/color][/size]
 
@@ -112,7 +112,7 @@ Excellent video, as always!
 [size=2][b]View 248 hidden replies v[/b][/size]
 
 [columns]
-[img alt='Pergamon avatar']https://flightrising.com/rendern/portraits/275438/27543724p.png[/img]
+[img alt="Pergamon avatar"]https://flightrising.com/rendern/portraits/275438/27543724p.png[/img]
 [nextcol]
 [size=2][b]Pergamon Lacunarum[/b] [color=grey]3 minutes ago[/color][/size]
 
@@ -125,7 +125,7 @@ No, look, you clearly have no idea what you're talking about. If you'd actually 
 [/columns]
 
 [columns]
-[img alt='Derecho avatar']https://www1.flightrising.com/rendern/portraits/634914/63491313p.png[/img]
+[img alt="Derecho avatar"]https://www1.flightrising.com/rendern/portraits/634914/63491313p.png[/img]
 [nextcol]
 [size=2][b]Fire Extinguisher Go Boom[/b] [color=grey]6 hours ago[/color][/size]
 
@@ -146,7 +146,7 @@ NO YOU CAN'T DO THAT
 [/columns]
 
 [columns]
-[img alt='Dagian avatar']https://flightrising.com/rendern/portraits/471451/47145093p.png[/img]
+[img alt="Dagian avatar"]https://flightrising.com/rendern/portraits/471451/47145093p.png[/img]
 [nextcol]
 [size=2][b]xX_DagDags_Xx[/b] [color=grey]2 hours ago[/color][/size]
 
@@ -159,7 +159,7 @@ Hi thank you Health & Safety Gal i am 10 years old and i just boiled some water 
 [/columns]
 
 [columns]
-[img alt='Poddlewise avatar']https://flightrising.com/rendern/portraits/194651/19465093p.png[/img]
+[img alt="Poddlewise avatar"]https://flightrising.com/rendern/portraits/194651/19465093p.png[/img]
 [nextcol]
 [size=2][b]I Hate You All[/b] [color=grey]8 hours ago[/color][/size]
 
@@ -171,7 +171,7 @@ You're wasting your time making these cheap videos, the few idiots who watch som
 [size=2][b]Hide replies ^[/b][/size]
 
 [columns]
-[img alt='Hiram avatar']https://flightrising.com/rendern/portraits/383418/38341750p.png[/img]
+[img alt="Hiram avatar"]https://flightrising.com/rendern/portraits/383418/38341750p.png[/img]
 [nextcol]
 [size=2][b]Not a Necromancer[/b] [color=grey]8 hours ago[/color][/size]
 
@@ -183,7 +183,7 @@ mate why are you even watching this
 [/columns]
 
 [columns]
-[img alt='Gwydion avatar']https://flightrising.com/rendern/portraits/215469/21546895p.png[/img]
+[img alt="Gwydion avatar"]https://flightrising.com/rendern/portraits/215469/21546895p.png[/img]
 [nextcol]
 [size=2][b]pink sparkles[/b] [color=grey]4 hours ago[/color][/size]
 
